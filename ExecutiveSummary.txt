@@ -1,0 +1,17 @@
+EXECUTIVE SUMMARY — UNLOCKING REVENUE
+IMPORTANT: These results are calculated from a generated 1,000-row sample dataset, not your institute's original CSV. Replace the sample CSV with the supplied dataset and rerun the SQL to obtain official results.
+
+Completed revenue: 841,826.07
+Total transaction amount across all statuses: 1,093,429.78
+Cancelled orders: 129 (12.90%)
+Returned orders: 87 (8.70%)
+Average order value: 1,093.43
+Highest sales category: Furniture (516,854.06)
+Most frequently returned product: Bookshelf
+
+Recommended actions:
+1. Review cancellation and return reasons by region and product.
+2. Coach agents with high cancellation rates after comparing like-for-like order volumes.
+3. Prioritize quality checks and product-page accuracy for frequently returned products.
+4. Promote categories with lower revenue after checking margin and stock availability.
+5. Monitor monthly completed revenue and status mix in the dashboard.
