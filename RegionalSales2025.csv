@@ -1,0 +1,1001 @@
+OrderID,Date,CustomerID,Region,ProductName,Category,Quantity,UnitPrice,TotalAmount,OrderStatus,SalesAgent
+ORD00001,2025-11-24,CUST0019,South,Perfume,Beauty,3,80.54,241.62,Completed,Aarav Shah
+ORD00002,2025-02-27,CUST0113,South,Jacket,Clothing,5,95.33,476.65,Returned,Diya Patel
+ORD00003,2025-01-13,CUST0127,North,Bookshelf,Furniture,3,1079.63,3238.89,Completed,Mira Trivedi
+ORD00004,2025-05-21,CUST0155,South,Smartwatch,Electronics,4,124.64,498.56,Completed,Vivaan Joshi
+ORD00005,2025-05-06,CUST0006,North,Smartphone,Electronics,5,336.4,1682.0,Completed,Vivaan Joshi
+ORD00006,2025-04-25,CUST0167,West,Skincare Kit,Beauty,2,93.47,186.94,Completed,Mira Trivedi
+ORD00007,2025-03-13,CUST0126,North,Cookware Set,Home & Kitchen,4,348.99,1395.96,Completed,Diya Patel
+ORD00008,2025-02-22,CUST0220,North,Bookshelf,Furniture,3,671.69,2015.07,Cancelled,Rohan Mehta
+ORD00009,2025-12-13,CUST0103,North,Blender,Home & Kitchen,3,248.91,746.73,Completed,Aarav Shah
+ORD00010,2025-10-07,CUST0198,East,Office Chair,Furniture,3,540.32,1620.96,Completed,Kabir Patel
+ORD00011,2025-02-14,CUST0014,West,Skincare Kit,Beauty,5,81.66,408.3,Completed,Anaya Desai
+ORD00012,2025-10-30,CUST0195,North,Hair Dryer,Beauty,4,77.73,310.92,Returned,Aarav Shah
+ORD00013,2025-08-05,CUST0179,West,Jacket,Clothing,3,89.14,267.42,Cancelled,Mira Trivedi
+ORD00014,2025-01-17,CUST0182,South,Smartphone,Electronics,5,1169.92,5849.6,Completed,Rohan Mehta
+ORD00015,2025-01-16,CUST0216,East,Storage Box,Home & Kitchen,4,24.51,98.04,Completed,Diya Patel
+ORD00016,2025-02-17,CUST0184,West,Office Chair,Furniture,2,1006.79,2013.58,Completed,Vivaan Joshi
+ORD00017,2025-04-22,CUST0063,South,Hair Dryer,Beauty,4,54.53,218.12,Completed,Mira Trivedi
+ORD00018,2025-04-30,CUST0226,North,Perfume,Beauty,5,50.96,254.8,Completed,Rohan Mehta
+ORD00019,2025-09-16,CUST0202,West,Headphones,Electronics,4,945.4,3781.6,Completed,Vivaan Joshi
+ORD00020,2025-11-05,CUST0169,North,Headphones,Electronics,5,893.18,4465.9,Completed,Mira Trivedi
+ORD00021,2025-01-14,CUST0196,West,Sneakers,Clothing,3,87.71,263.13,Completed,Kabir Patel
+ORD00022,2025-10-15,CUST0060,North,Bookshelf,Furniture,2,1317.44,2634.88,Completed,Kabir Patel
+ORD00023,2025-04-12,CUST0170,West,Headphones,Electronics,4,914.07,3656.28,Completed,Rohan Mehta
+ORD00024,2025-11-29,CUST0026,West,Office Chair,Furniture,5,276.74,1383.7,Completed,Mira Trivedi
+ORD00025,2025-12-26,CUST0105,South,Smartwatch,Electronics,1,1099.69,1099.69,Completed,Rohan Mehta
+ORD00026,2025-10-07,CUST0178,West,Tablet,Electronics,3,955.31,2865.93,Cancelled,Kabir Patel
+ORD00027,2025-08-03,CUST0082,West,Headphones,Electronics,5,1034.62,5173.1,Completed,Mira Trivedi
+ORD00028,2025-04-23,CUST0236,North,Skincare Kit,Beauty,2,77.16,154.32,Completed,Vivaan Joshi
+ORD00029,2025-08-18,CUST0181,South,T-Shirt,Clothing,1,73.59,73.59,Completed,Diya Patel
+ORD00030,2025-10-29,CUST0204,East,Study Table,Furniture,1,1071.6,1071.6,Completed,Aarav Shah
+ORD00031,2025-05-23,CUST0106,West,Vacuum Cleaner,Home & Kitchen,2,143.7,287.4,Completed,Rohan Mehta
+ORD00032,2025-01-04,CUST0062,North,Jeans,Clothing,4,25.66,102.64,Completed,Mira Trivedi
+ORD00033,2025-03-23,CUST0171,West,Perfume,Beauty,3,34.01,102.03,Completed,Aarav Shah
+ORD00034,2025-12-24,CUST0242,East,Bookshelf,Furniture,2,1048.66,2097.32,Returned,Isha Shah
+ORD00035,2025-08-05,CUST0117,North,Hair Dryer,Beauty,4,79.56,318.24,Returned,Vivaan Joshi
+ORD00036,2025-06-24,CUST0147,West,Sneakers,Clothing,1,130.2,130.2,Cancelled,Isha Shah
+ORD00037,2025-05-23,CUST0213,East,Hair Dryer,Beauty,3,119.18,357.54,Completed,Kabir Patel
+ORD00038,2025-03-21,CUST0191,South,Mixer,Home & Kitchen,1,206.76,206.76,Completed,Mira Trivedi
+ORD00039,2025-04-21,CUST0049,East,Cookware Set,Home & Kitchen,3,220.33,660.99,Completed,Vivaan Joshi
+ORD00040,2025-06-22,CUST0113,West,T-Shirt,Clothing,1,136.96,136.96,Completed,Aarav Shah
+ORD00041,2025-02-22,CUST0084,South,Hair Dryer,Beauty,1,90.02,90.02,Completed,Kabir Patel
+ORD00042,2025-02-17,CUST0094,South,Jeans,Clothing,5,32.84,164.2,Completed,Vivaan Joshi
+ORD00043,2025-07-14,CUST0076,South,Jacket,Clothing,4,138.4,553.6,Completed,Isha Shah
+ORD00044,2025-02-19,CUST0058,South,Tablet,Electronics,2,1158.44,2316.88,Cancelled,Kabir Patel
+ORD00045,2025-07-03,CUST0138,East,Hair Dryer,Beauty,4,18.11,72.44,Completed,Diya Patel
+ORD00046,2025-06-26,CUST0211,North,Bookshelf,Furniture,3,1041.96,3125.88,Completed,Isha Shah
+ORD00047,2025-11-06,CUST0144,South,Laptop,Electronics,5,608.05,3040.25,Completed,Isha Shah
+ORD00048,2025-05-16,CUST0078,South,Perfume,Beauty,4,80.54,322.16,Completed,Kabir Patel
+ORD00049,2025-01-23,CUST0127,West,Laptop,Electronics,1,130.79,130.79,Completed,Diya Patel
+ORD00050,2025-08-24,CUST0095,West,Laptop,Electronics,2,1073.73,2147.46,Completed,Kabir Patel
+ORD00051,2025-10-02,CUST0158,South,Perfume,Beauty,1,107.17,107.17,Returned,Kabir Patel
+ORD00052,2025-03-05,CUST0244,West,Mixer,Home & Kitchen,2,247.79,495.58,Completed,Anaya Desai
+ORD00053,2025-07-13,CUST0166,North,Mixer,Home & Kitchen,3,343.71,1031.13,Returned,Isha Shah
+ORD00054,2025-02-10,CUST0211,South,Tablet,Electronics,1,388.99,388.99,Cancelled,Mira Trivedi
+ORD00055,2025-10-10,CUST0013,South,Laptop,Electronics,5,798.71,3993.55,Completed,Isha Shah
+ORD00056,2025-05-31,CUST0196,East,Jeans,Clothing,2,121.24,242.48,Returned,Anaya Desai
+ORD00057,2025-11-18,CUST0038,West,Perfume,Beauty,2,99.06,198.12,Completed,Aarav Shah
+ORD00058,2025-11-13,CUST0045,West,Cookware Set,Home & Kitchen,5,345.88,1729.4,Completed,Diya Patel
+ORD00059,2025-07-05,CUST0005,North,Laptop,Electronics,2,96.64,193.28,Completed,Rohan Mehta
+ORD00060,2025-10-23,CUST0191,North,Mixer,Home & Kitchen,4,61.83,247.32,Completed,Diya Patel
+ORD00061,2025-04-09,CUST0116,North,Sofa,Furniture,5,1189.22,5946.1,Completed,Anaya Desai
+ORD00062,2025-12-27,CUST0165,West,Skincare Kit,Beauty,5,89.45,447.25,Completed,Aarav Shah
+ORD00063,2025-02-05,CUST0126,North,Tablet,Electronics,4,1028.97,4115.88,Cancelled,Mira Trivedi
+ORD00064,2025-01-24,CUST0071,East,Smartphone,Electronics,2,440.77,881.54,Completed,Isha Shah
+ORD00065,2025-12-05,CUST0111,North,Bedside Table,Furniture,4,842.78,3371.12,Completed,Diya Patel
+ORD00066,2025-04-27,CUST0228,West,Smartwatch,Electronics,2,887.34,1774.68,Completed,Anaya Desai
+ORD00067,2025-05-29,CUST0025,West,Bookshelf,Furniture,4,1258.39,5033.56,Completed,Isha Shah
+ORD00068,2025-02-10,CUST0176,South,Bookshelf,Furniture,3,1031.15,3093.45,Cancelled,Mira Trivedi
+ORD00069,2025-04-30,CUST0191,West,Smartphone,Electronics,1,1011.58,1011.58,Completed,Isha Shah
+ORD00070,2025-02-21,CUST0172,North,Dress,Clothing,5,23.1,115.5,Returned,Diya Patel
+ORD00071,2025-07-14,CUST0185,South,Bookshelf,Furniture,4,1323.05,5292.2,Completed,Aarav Shah
+ORD00072,2025-05-23,CUST0055,North,Storage Box,Home & Kitchen,1,123.11,123.11,Completed,Rohan Mehta
+ORD00073,2025-08-21,CUST0095,South,Study Table,Furniture,3,1286.18,3858.54,Completed,Diya Patel
+ORD00074,2025-11-22,CUST0250,South,Storage Box,Home & Kitchen,4,94.63,378.52,Cancelled,Aarav Shah
+ORD00075,2025-07-06,CUST0080,South,Hair Dryer,Beauty,3,11.24,33.72,Completed,Isha Shah
+ORD00076,2025-03-25,CUST0103,North,Mixer,Home & Kitchen,2,79.86,159.72,Completed,Diya Patel
+ORD00077,2025-07-09,CUST0108,East,T-Shirt,Clothing,5,27.39,136.95,Completed,Mira Trivedi
+ORD00078,2025-07-01,CUST0146,South,Cookware Set,Home & Kitchen,3,142.12,426.36,Completed,Diya Patel
+ORD00079,2025-04-18,CUST0021,East,Laptop,Electronics,5,256.3,1281.5,Completed,Vivaan Joshi
+ORD00080,2025-12-10,CUST0056,West,Sofa,Furniture,4,779.93,3119.72,Completed,Diya Patel
+ORD00081,2025-05-17,CUST0171,West,Blender,Home & Kitchen,5,56.59,282.95,Cancelled,Vivaan Joshi
+ORD00082,2025-12-26,CUST0053,East,Laptop,Electronics,5,522.7,2613.5,Completed,Vivaan Joshi
+ORD00083,2025-12-16,CUST0002,West,Jeans,Clothing,3,118.16,354.48,Completed,Mira Trivedi
+ORD00084,2025-11-28,CUST0129,South,Study Table,Furniture,5,280.86,1404.3,Completed,Isha Shah
+ORD00085,2025-02-06,CUST0118,West,Tablet,Electronics,1,1045.18,1045.18,Completed,Diya Patel
+ORD00086,2025-11-08,CUST0107,South,Storage Box,Home & Kitchen,4,161.66,646.64,Completed,Vivaan Joshi
+ORD00087,2025-11-22,CUST0243,East,Tablet,Electronics,3,103.36,310.08,Completed,Mira Trivedi
+ORD00088,2025-03-29,CUST0151,West,Mixer,Home & Kitchen,1,164.11,164.11,Completed,Kabir Patel
+ORD00089,2025-10-01,CUST0057,South,Skincare Kit,Beauty,3,52.33,156.99,Cancelled,Isha Shah
+ORD00090,2025-05-06,CUST0050,North,T-Shirt,Clothing,1,83.92,83.92,Completed,Isha Shah
+ORD00091,2025-03-25,CUST0045,West,Cookware Set,Home & Kitchen,2,97.97,195.94,Completed,Rohan Mehta
+ORD00092,2025-08-25,CUST0145,West,Laptop,Electronics,4,1145.45,4581.8,Completed,Mira Trivedi
+ORD00093,2025-07-14,CUST0018,East,Face Wash,Beauty,3,44.2,132.6,Completed,Mira Trivedi
+ORD00094,2025-05-19,CUST0130,East,Bookshelf,Furniture,5,1214.86,6074.3,Completed,Diya Patel
+ORD00095,2025-11-24,CUST0074,West,Blender,Home & Kitchen,1,169.13,169.13,Completed,Diya Patel
+ORD00096,2025-12-19,CUST0142,West,Smartwatch,Electronics,4,745.37,2981.48,Completed,Aarav Shah
+ORD00097,2025-10-13,CUST0129,North,Bedside Table,Furniture,3,1012.57,3037.71,Completed,Rohan Mehta
+ORD00098,2025-04-23,CUST0022,South,Tablet,Electronics,3,195.92,587.76,Completed,Rohan Mehta
+ORD00099,2025-12-17,CUST0157,North,Laptop,Electronics,4,872.54,3490.16,Completed,Rohan Mehta
+ORD00100,2025-06-16,CUST0087,West,Vacuum Cleaner,Home & Kitchen,4,322.92,1291.68,Completed,Aarav Shah
+ORD00101,2025-01-29,CUST0073,North,Mixer,Home & Kitchen,5,128.8,644.0,Completed,Vivaan Joshi
+ORD00102,2025-04-28,CUST0235,North,Perfume,Beauty,5,45.34,226.7,Completed,Isha Shah
+ORD00103,2025-01-17,CUST0097,West,Blender,Home & Kitchen,1,62.55,62.55,Completed,Isha Shah
+ORD00104,2025-06-11,CUST0005,North,Dress,Clothing,4,27.62,110.48,Completed,Isha Shah
+ORD00105,2025-07-25,CUST0125,South,Cookware Set,Home & Kitchen,3,333.89,1001.67,Cancelled,Anaya Desai
+ORD00106,2025-05-18,CUST0026,South,Jeans,Clothing,3,35.92,107.76,Completed,Aarav Shah
+ORD00107,2025-02-03,CUST0047,East,Storage Box,Home & Kitchen,4,63.25,253.0,Completed,Rohan Mehta
+ORD00108,2025-04-19,CUST0157,South,Office Chair,Furniture,2,675.2,1350.4,Completed,Vivaan Joshi
+ORD00109,2025-10-18,CUST0201,South,Study Table,Furniture,3,847.62,2542.86,Completed,Mira Trivedi
+ORD00110,2025-06-11,CUST0119,South,Jacket,Clothing,5,106.57,532.85,Completed,Vivaan Joshi
+ORD00111,2025-04-19,CUST0206,South,Bedside Table,Furniture,2,838.44,1676.88,Completed,Rohan Mehta
+ORD00112,2025-12-02,CUST0027,North,Mixer,Home & Kitchen,3,231.59,694.77,Completed,Diya Patel
+ORD00113,2025-09-13,CUST0132,West,Mixer,Home & Kitchen,3,271.83,815.49,Returned,Rohan Mehta
+ORD00114,2025-07-22,CUST0227,South,Office Chair,Furniture,2,1424.98,2849.96,Cancelled,Isha Shah
+ORD00115,2025-11-26,CUST0099,West,Tablet,Electronics,5,139.65,698.25,Completed,Diya Patel
+ORD00116,2025-08-23,CUST0167,South,Cookware Set,Home & Kitchen,1,29.3,29.3,Cancelled,Isha Shah
+ORD00117,2025-03-15,CUST0036,North,Jeans,Clothing,4,20.17,80.68,Cancelled,Mira Trivedi
+ORD00118,2025-05-16,CUST0056,East,Bedside Table,Furniture,1,107.35,107.35,Completed,Rohan Mehta
+ORD00119,2025-03-13,CUST0061,South,Face Wash,Beauty,1,67.11,67.11,Cancelled,Vivaan Joshi
+ORD00120,2025-05-07,CUST0029,West,Smartphone,Electronics,5,347.05,1735.25,Completed,Mira Trivedi
+ORD00121,2025-10-15,CUST0184,North,Face Wash,Beauty,5,9.84,49.2,Cancelled,Rohan Mehta
+ORD00122,2025-10-03,CUST0107,West,Blender,Home & Kitchen,3,20.52,61.56,Cancelled,Rohan Mehta
+ORD00123,2025-05-15,CUST0140,South,Smartwatch,Electronics,1,1171.61,1171.61,Completed,Aarav Shah
+ORD00124,2025-10-27,CUST0065,South,Sofa,Furniture,4,160.95,643.8,Completed,Aarav Shah
+ORD00125,2025-08-08,CUST0189,South,Mixer,Home & Kitchen,1,133.78,133.78,Completed,Isha Shah
+ORD00126,2025-10-26,CUST0045,South,T-Shirt,Clothing,3,62.56,187.68,Completed,Mira Trivedi
+ORD00127,2025-07-24,CUST0242,South,Study Table,Furniture,1,1236.1,1236.1,Cancelled,Mira Trivedi
+ORD00128,2025-07-05,CUST0081,South,Headphones,Electronics,2,305.78,611.56,Cancelled,Vivaan Joshi
+ORD00129,2025-04-23,CUST0010,West,Makeup Set,Beauty,5,118.78,593.9,Completed,Anaya Desai
+ORD00130,2025-03-12,CUST0085,South,Vacuum Cleaner,Home & Kitchen,1,304.51,304.51,Completed,Vivaan Joshi
+ORD00131,2025-09-18,CUST0230,South,Headphones,Electronics,4,569.39,2277.56,Completed,Kabir Patel
+ORD00132,2025-09-10,CUST0205,West,Cookware Set,Home & Kitchen,4,183.75,735.0,Completed,Vivaan Joshi
+ORD00133,2025-02-16,CUST0047,South,Tablet,Electronics,5,168.4,842.0,Completed,Vivaan Joshi
+ORD00134,2025-01-25,CUST0155,West,Mixer,Home & Kitchen,3,46.42,139.26,Completed,Kabir Patel
+ORD00135,2025-02-26,CUST0234,South,Sneakers,Clothing,1,62.46,62.46,Returned,Isha Shah
+ORD00136,2025-03-20,CUST0164,East,Makeup Set,Beauty,1,38.75,38.75,Completed,Kabir Patel
+ORD00137,2025-11-18,CUST0037,South,Storage Box,Home & Kitchen,2,284.36,568.72,Completed,Mira Trivedi
+ORD00138,2025-03-23,CUST0244,West,Laptop,Electronics,3,155.3,465.9,Completed,Aarav Shah
+ORD00139,2025-12-15,CUST0196,West,Perfume,Beauty,3,84.05,252.15,Completed,Diya Patel
+ORD00140,2025-08-05,CUST0072,West,Perfume,Beauty,4,67.3,269.2,Returned,Anaya Desai
+ORD00141,2025-11-02,CUST0234,North,Smartphone,Electronics,4,903.96,3615.84,Returned,Diya Patel
+ORD00142,2025-02-02,CUST0074,South,Vacuum Cleaner,Home & Kitchen,2,252.33,504.66,Completed,Mira Trivedi
+ORD00143,2025-07-17,CUST0231,West,T-Shirt,Clothing,1,33.32,33.32,Completed,Mira Trivedi
+ORD00144,2025-07-15,CUST0075,North,Headphones,Electronics,1,827.98,827.98,Completed,Vivaan Joshi
+ORD00145,2025-11-02,CUST0052,West,Jeans,Clothing,5,122.15,610.75,Completed,Rohan Mehta
+ORD00146,2025-08-28,CUST0120,North,Sneakers,Clothing,5,18.55,92.75,Completed,Rohan Mehta
+ORD00147,2025-09-28,CUST0185,South,Skincare Kit,Beauty,4,15.36,61.44,Completed,Mira Trivedi
+ORD00148,2025-05-09,CUST0249,East,Makeup Set,Beauty,5,94.15,470.75,Completed,Isha Shah
+ORD00149,2025-10-11,CUST0225,West,Tablet,Electronics,5,601.73,3008.65,Completed,Rohan Mehta
+ORD00150,2025-01-06,CUST0133,South,Sneakers,Clothing,1,82.89,82.89,Completed,Rohan Mehta
+ORD00151,2025-12-15,CUST0241,West,Cookware Set,Home & Kitchen,2,73.45,146.9,Cancelled,Vivaan Joshi
+ORD00152,2025-02-28,CUST0161,West,Headphones,Electronics,5,299.86,1499.3,Completed,Vivaan Joshi
+ORD00153,2025-12-16,CUST0149,North,Face Wash,Beauty,2,18.46,36.92,Completed,Rohan Mehta
+ORD00154,2025-10-02,CUST0237,West,Dress,Clothing,5,112.29,561.45,Completed,Aarav Shah
+ORD00155,2025-05-17,CUST0054,West,Smartphone,Electronics,5,130.92,654.6,Returned,Kabir Patel
+ORD00156,2025-11-25,CUST0245,West,Skincare Kit,Beauty,5,63.78,318.9,Completed,Vivaan Joshi
+ORD00157,2025-06-24,CUST0019,West,Study Table,Furniture,4,1226.56,4906.24,Completed,Aarav Shah
+ORD00158,2025-02-27,CUST0156,East,Sneakers,Clothing,4,71.11,284.44,Completed,Rohan Mehta
+ORD00159,2025-05-31,CUST0034,South,Vacuum Cleaner,Home & Kitchen,3,262.29,786.87,Completed,Isha Shah
+ORD00160,2025-08-11,CUST0069,West,Face Wash,Beauty,2,19.89,39.78,Completed,Mira Trivedi
+ORD00161,2025-03-22,CUST0222,South,Jeans,Clothing,3,28.07,84.21,Completed,Kabir Patel
+ORD00162,2025-08-21,CUST0049,South,Jeans,Clothing,5,124.82,624.1,Completed,Rohan Mehta
+ORD00163,2025-01-02,CUST0024,West,Bedside Table,Furniture,3,753.54,2260.62,Completed,Kabir Patel
+ORD00164,2025-05-15,CUST0013,North,Makeup Set,Beauty,2,116.27,232.54,Completed,Aarav Shah
+ORD00165,2025-09-14,CUST0003,West,Blender,Home & Kitchen,4,217.18,868.72,Completed,Diya Patel
+ORD00166,2025-04-02,CUST0094,South,Study Table,Furniture,3,1335.44,4006.32,Cancelled,Aarav Shah
+ORD00167,2025-09-17,CUST0074,West,Office Chair,Furniture,2,898.39,1796.78,Completed,Diya Patel
+ORD00168,2025-02-24,CUST0160,West,Bedside Table,Furniture,5,730.5,3652.5,Completed,Diya Patel
+ORD00169,2025-11-17,CUST0094,North,T-Shirt,Clothing,3,68.18,204.54,Completed,Rohan Mehta
+ORD00170,2025-06-02,CUST0010,East,Dress,Clothing,5,83.73,418.65,Completed,Rohan Mehta
+ORD00171,2025-11-24,CUST0132,North,Blender,Home & Kitchen,2,191.38,382.76,Completed,Rohan Mehta
+ORD00172,2025-09-17,CUST0190,South,Storage Box,Home & Kitchen,4,125.11,500.44,Completed,Vivaan Joshi
+ORD00173,2025-11-08,CUST0182,North,Hair Dryer,Beauty,5,64.82,324.1,Completed,Vivaan Joshi
+ORD00174,2025-04-12,CUST0150,South,Office Chair,Furniture,1,615.7,615.7,Completed,Vivaan Joshi
+ORD00175,2025-03-20,CUST0185,North,Smartwatch,Electronics,5,611.54,3057.7,Completed,Aarav Shah
+ORD00176,2025-07-11,CUST0098,South,Makeup Set,Beauty,5,27.1,135.5,Completed,Rohan Mehta
+ORD00177,2025-03-24,CUST0113,East,T-Shirt,Clothing,1,92.3,92.3,Completed,Isha Shah
+ORD00178,2025-10-04,CUST0199,West,Study Table,Furniture,2,678.14,1356.28,Completed,Mira Trivedi
+ORD00179,2025-09-29,CUST0170,West,Laptop,Electronics,5,660.93,3304.65,Returned,Mira Trivedi
+ORD00180,2025-01-01,CUST0137,West,Makeup Set,Beauty,2,43.14,86.28,Completed,Isha Shah
+ORD00181,2025-11-03,CUST0050,North,Hair Dryer,Beauty,3,83.7,251.1,Completed,Anaya Desai
+ORD00182,2025-06-15,CUST0181,South,Storage Box,Home & Kitchen,3,118.5,355.5,Completed,Anaya Desai
+ORD00183,2025-09-08,CUST0204,South,Bookshelf,Furniture,5,771.72,3858.6,Returned,Vivaan Joshi
+ORD00184,2025-01-10,CUST0102,West,Mixer,Home & Kitchen,5,209.25,1046.25,Cancelled,Isha Shah
+ORD00185,2025-02-27,CUST0114,West,Jacket,Clothing,1,20.68,20.68,Completed,Vivaan Joshi
+ORD00186,2025-07-05,CUST0144,West,Study Table,Furniture,5,382.9,1914.5,Completed,Vivaan Joshi
+ORD00187,2025-06-07,CUST0013,West,T-Shirt,Clothing,5,98.12,490.6,Cancelled,Anaya Desai
+ORD00188,2025-05-03,CUST0026,South,T-Shirt,Clothing,3,28.53,85.59,Completed,Rohan Mehta
+ORD00189,2025-01-30,CUST0240,West,Smartwatch,Electronics,2,1175.26,2350.52,Completed,Mira Trivedi
+ORD00190,2025-05-04,CUST0166,West,Study Table,Furniture,3,1158.28,3474.84,Completed,Aarav Shah
+ORD00191,2025-10-18,CUST0045,South,Smartwatch,Electronics,1,340.09,340.09,Completed,Kabir Patel
+ORD00192,2025-02-10,CUST0048,South,T-Shirt,Clothing,4,149.62,598.48,Cancelled,Vivaan Joshi
+ORD00193,2025-02-13,CUST0086,East,Smartphone,Electronics,5,414.2,2071.0,Cancelled,Vivaan Joshi
+ORD00194,2025-09-06,CUST0120,South,Bedside Table,Furniture,2,834.05,1668.1,Completed,Vivaan Joshi
+ORD00195,2025-02-05,CUST0184,North,T-Shirt,Clothing,4,59.64,238.56,Completed,Rohan Mehta
+ORD00196,2025-09-30,CUST0050,North,Headphones,Electronics,5,965.66,4828.3,Completed,Rohan Mehta
+ORD00197,2025-03-06,CUST0103,West,Makeup Set,Beauty,5,100.62,503.1,Completed,Diya Patel
+ORD00198,2025-03-07,CUST0099,East,Jeans,Clothing,2,79.46,158.92,Cancelled,Anaya Desai
+ORD00199,2025-12-04,CUST0147,North,Bookshelf,Furniture,3,1435.65,4306.95,Cancelled,Aarav Shah
+ORD00200,2025-09-01,CUST0120,North,Vacuum Cleaner,Home & Kitchen,1,248.61,248.61,Completed,Vivaan Joshi
+ORD00201,2025-10-09,CUST0164,North,Sneakers,Clothing,3,107.62,322.86,Completed,Vivaan Joshi
+ORD00202,2025-03-26,CUST0117,West,Storage Box,Home & Kitchen,2,92.88,185.76,Completed,Isha Shah
+ORD00203,2025-05-16,CUST0212,South,Bedside Table,Furniture,5,1377.92,6889.6,Completed,Anaya Desai
+ORD00204,2025-09-28,CUST0136,North,Dress,Clothing,1,132.87,132.87,Cancelled,Isha Shah
+ORD00205,2025-11-07,CUST0052,South,Smartwatch,Electronics,5,205.67,1028.35,Completed,Rohan Mehta
+ORD00206,2025-08-05,CUST0053,East,Jacket,Clothing,4,130.36,521.44,Completed,Mira Trivedi
+ORD00207,2025-04-19,CUST0132,West,Smartwatch,Electronics,1,578.94,578.94,Completed,Kabir Patel
+ORD00208,2025-10-04,CUST0079,North,Bedside Table,Furniture,4,180.83,723.32,Completed,Aarav Shah
+ORD00209,2025-12-20,CUST0012,North,Bookshelf,Furniture,2,1243.03,2486.06,Completed,Kabir Patel
+ORD00210,2025-04-13,CUST0018,South,Mixer,Home & Kitchen,1,198.58,198.58,Completed,Mira Trivedi
+ORD00211,2025-06-09,CUST0187,South,Headphones,Electronics,2,537.93,1075.86,Completed,Kabir Patel
+ORD00212,2025-07-24,CUST0175,West,Blender,Home & Kitchen,4,168.02,672.08,Completed,Rohan Mehta
+ORD00213,2025-12-10,CUST0033,West,Mixer,Home & Kitchen,5,78.9,394.5,Completed,Anaya Desai
+ORD00214,2025-11-29,CUST0140,North,Smartphone,Electronics,4,1175.91,4703.64,Completed,Kabir Patel
+ORD00215,2025-07-11,CUST0040,West,Makeup Set,Beauty,2,100.22,200.44,Completed,Vivaan Joshi
+ORD00216,2025-08-13,CUST0240,North,T-Shirt,Clothing,4,19.35,77.4,Completed,Aarav Shah
+ORD00217,2025-09-22,CUST0154,East,Jeans,Clothing,5,24.08,120.4,Completed,Aarav Shah
+ORD00218,2025-08-20,CUST0194,North,T-Shirt,Clothing,2,69.31,138.62,Completed,Aarav Shah
+ORD00219,2025-03-03,CUST0188,South,Dress,Clothing,2,149.12,298.24,Completed,Isha Shah
+ORD00220,2025-05-07,CUST0225,West,Face Wash,Beauty,3,94.52,283.56,Cancelled,Rohan Mehta
+ORD00221,2025-04-26,CUST0243,East,Perfume,Beauty,3,54.32,162.96,Completed,Rohan Mehta
+ORD00222,2025-02-02,CUST0172,South,Bedside Table,Furniture,3,793.87,2381.61,Completed,Kabir Patel
+ORD00223,2025-06-23,CUST0097,East,Hair Dryer,Beauty,4,85.99,343.96,Completed,Rohan Mehta
+ORD00224,2025-01-11,CUST0182,West,Makeup Set,Beauty,2,34.99,69.98,Completed,Rohan Mehta
+ORD00225,2025-10-29,CUST0035,North,Office Chair,Furniture,4,887.34,3549.36,Completed,Kabir Patel
+ORD00226,2025-10-11,CUST0217,South,Jacket,Clothing,1,42.45,42.45,Completed,Isha Shah
+ORD00227,2025-04-28,CUST0097,East,Smartwatch,Electronics,2,891.53,1783.06,Returned,Aarav Shah
+ORD00228,2025-10-29,CUST0144,South,Laptop,Electronics,5,981.21,4906.05,Completed,Anaya Desai
+ORD00229,2025-04-23,CUST0233,West,Study Table,Furniture,3,1317.26,3951.78,Cancelled,Aarav Shah
+ORD00230,2025-01-04,CUST0194,South,Jeans,Clothing,1,144.88,144.88,Completed,Mira Trivedi
+ORD00231,2025-02-06,CUST0142,South,Dress,Clothing,4,110.01,440.04,Cancelled,Isha Shah
+ORD00232,2025-12-29,CUST0093,West,Blender,Home & Kitchen,3,173.86,521.58,Completed,Mira Trivedi
+ORD00233,2025-11-20,CUST0082,South,Office Chair,Furniture,4,1223.94,4895.76,Completed,Anaya Desai
+ORD00234,2025-01-31,CUST0190,South,Vacuum Cleaner,Home & Kitchen,5,156.6,783.0,Completed,Rohan Mehta
+ORD00235,2025-04-28,CUST0107,North,Headphones,Electronics,5,699.71,3498.55,Completed,Vivaan Joshi
+ORD00236,2025-02-04,CUST0063,North,Jeans,Clothing,4,59.53,238.12,Completed,Mira Trivedi
+ORD00237,2025-01-17,CUST0165,South,Hair Dryer,Beauty,4,36.82,147.28,Completed,Mira Trivedi
+ORD00238,2025-06-19,CUST0185,East,Study Table,Furniture,3,1125.88,3377.64,Completed,Mira Trivedi
+ORD00239,2025-02-06,CUST0215,North,Dress,Clothing,1,148.69,148.69,Completed,Diya Patel
+ORD00240,2025-09-21,CUST0039,East,Smartphone,Electronics,2,541.88,1083.76,Completed,Aarav Shah
+ORD00241,2025-05-02,CUST0171,North,Dress,Clothing,1,76.56,76.56,Returned,Mira Trivedi
+ORD00242,2025-05-23,CUST0005,West,Office Chair,Furniture,5,109.26,546.3,Returned,Vivaan Joshi
+ORD00243,2025-12-09,CUST0233,South,Hair Dryer,Beauty,4,9.92,39.68,Returned,Rohan Mehta
+ORD00244,2025-09-06,CUST0135,East,Smartphone,Electronics,2,667.31,1334.62,Completed,Vivaan Joshi
+ORD00245,2025-04-20,CUST0104,West,Vacuum Cleaner,Home & Kitchen,1,282.33,282.33,Completed,Mira Trivedi
+ORD00246,2025-10-04,CUST0212,West,Perfume,Beauty,2,118.91,237.82,Returned,Diya Patel
+ORD00247,2025-03-09,CUST0015,North,Smartphone,Electronics,4,533.91,2135.64,Completed,Aarav Shah
+ORD00248,2025-10-20,CUST0085,North,T-Shirt,Clothing,4,82.48,329.92,Returned,Diya Patel
+ORD00249,2025-10-23,CUST0012,West,Skincare Kit,Beauty,5,33.73,168.65,Returned,Diya Patel
+ORD00250,2025-08-31,CUST0218,East,Storage Box,Home & Kitchen,1,205.96,205.96,Cancelled,Isha Shah
+ORD00251,2025-05-05,CUST0077,South,Laptop,Electronics,4,737.48,2949.92,Completed,Rohan Mehta
+ORD00252,2025-08-31,CUST0139,North,Perfume,Beauty,4,71.47,285.88,Completed,Isha Shah
+ORD00253,2025-07-28,CUST0250,North,Study Table,Furniture,1,1206.7,1206.7,Cancelled,Isha Shah
+ORD00254,2025-04-08,CUST0197,West,Smartphone,Electronics,1,569.54,569.54,Completed,Kabir Patel
+ORD00255,2025-02-18,CUST0092,West,Mixer,Home & Kitchen,4,229.26,917.04,Completed,Kabir Patel
+ORD00256,2025-02-19,CUST0159,East,Study Table,Furniture,4,1051.57,4206.28,Completed,Vivaan Joshi
+ORD00257,2025-12-04,CUST0201,West,T-Shirt,Clothing,2,26.08,52.16,Returned,Rohan Mehta
+ORD00258,2025-08-09,CUST0079,East,Bookshelf,Furniture,1,604.98,604.98,Completed,Mira Trivedi
+ORD00259,2025-07-01,CUST0115,East,Vacuum Cleaner,Home & Kitchen,1,53.74,53.74,Completed,Kabir Patel
+ORD00260,2025-08-05,CUST0154,East,Smartphone,Electronics,5,180.37,901.85,Completed,Isha Shah
+ORD00261,2025-07-30,CUST0186,South,Office Chair,Furniture,4,508.59,2034.36,Completed,Anaya Desai
+ORD00262,2025-08-28,CUST0069,East,Face Wash,Beauty,4,26.99,107.96,Returned,Vivaan Joshi
+ORD00263,2025-01-28,CUST0108,West,Blender,Home & Kitchen,2,68.16,136.32,Completed,Vivaan Joshi
+ORD00264,2025-12-11,CUST0127,South,Office Chair,Furniture,2,605.57,1211.14,Completed,Anaya Desai
+ORD00265,2025-12-01,CUST0086,South,Office Chair,Furniture,1,289.69,289.69,Cancelled,Kabir Patel
+ORD00266,2025-11-27,CUST0083,East,Blender,Home & Kitchen,5,130.46,652.3,Completed,Anaya Desai
+ORD00267,2025-02-20,CUST0075,South,Bookshelf,Furniture,4,348.69,1394.76,Completed,Mira Trivedi
+ORD00268,2025-02-01,CUST0101,South,Perfume,Beauty,3,44.5,133.5,Completed,Isha Shah
+ORD00269,2025-07-26,CUST0197,East,Smartwatch,Electronics,5,303.78,1518.9,Completed,Aarav Shah
+ORD00270,2025-06-23,CUST0018,South,Study Table,Furniture,3,713.84,2141.52,Completed,Kabir Patel
+ORD00271,2025-02-25,CUST0040,West,Study Table,Furniture,2,986.67,1973.34,Cancelled,Kabir Patel
+ORD00272,2025-05-08,CUST0103,West,Office Chair,Furniture,5,728.69,3643.45,Cancelled,Kabir Patel
+ORD00273,2025-04-09,CUST0208,South,Skincare Kit,Beauty,3,96.56,289.68,Cancelled,Diya Patel
+ORD00274,2025-04-08,CUST0157,East,Laptop,Electronics,3,816.51,2449.53,Returned,Aarav Shah
+ORD00275,2025-10-02,CUST0111,South,Makeup Set,Beauty,3,116.28,348.84,Completed,Diya Patel
+ORD00276,2025-08-18,CUST0143,South,Smartphone,Electronics,5,369.79,1848.95,Completed,Anaya Desai
+ORD00277,2025-03-13,CUST0039,North,Bookshelf,Furniture,5,647.59,3237.95,Cancelled,Isha Shah
+ORD00278,2025-08-05,CUST0022,South,Tablet,Electronics,4,197.1,788.4,Completed,Diya Patel
+ORD00279,2025-04-04,CUST0134,South,Jacket,Clothing,4,57.11,228.44,Completed,Mira Trivedi
+ORD00280,2025-05-23,CUST0077,West,Blender,Home & Kitchen,4,52.22,208.88,Cancelled,Aarav Shah
+ORD00281,2025-08-25,CUST0043,North,Smartphone,Electronics,1,1031.08,1031.08,Cancelled,Anaya Desai
+ORD00282,2025-05-08,CUST0246,North,Perfume,Beauty,3,69.81,209.43,Completed,Mira Trivedi
+ORD00283,2025-02-08,CUST0111,North,Sneakers,Clothing,2,100.02,200.04,Completed,Kabir Patel
+ORD00284,2025-08-15,CUST0100,North,Smartwatch,Electronics,4,1069.07,4276.28,Completed,Aarav Shah
+ORD00285,2025-10-09,CUST0205,North,Jeans,Clothing,1,52.58,52.58,Completed,Rohan Mehta
+ORD00286,2025-02-20,CUST0221,West,Vacuum Cleaner,Home & Kitchen,1,85.03,85.03,Completed,Mira Trivedi
+ORD00287,2025-01-26,CUST0030,West,Hair Dryer,Beauty,5,74.86,374.3,Completed,Isha Shah
+ORD00288,2025-11-30,CUST0152,South,Blender,Home & Kitchen,3,223.73,671.19,Completed,Diya Patel
+ORD00289,2025-10-04,CUST0096,East,Jacket,Clothing,3,30.91,92.73,Completed,Rohan Mehta
+ORD00290,2025-01-08,CUST0109,North,Makeup Set,Beauty,2,54.84,109.68,Completed,Rohan Mehta
+ORD00291,2025-02-17,CUST0126,North,Bedside Table,Furniture,2,1070.81,2141.62,Completed,Vivaan Joshi
+ORD00292,2025-05-02,CUST0222,North,Jeans,Clothing,4,57.47,229.88,Completed,Isha Shah
+ORD00293,2025-03-27,CUST0130,South,Tablet,Electronics,4,232.92,931.68,Cancelled,Mira Trivedi
+ORD00294,2025-07-28,CUST0022,West,Sofa,Furniture,4,681.88,2727.52,Completed,Aarav Shah
+ORD00295,2025-09-06,CUST0044,North,Jacket,Clothing,2,19.41,38.82,Completed,Mira Trivedi
+ORD00296,2025-09-04,CUST0069,North,Makeup Set,Beauty,1,69.57,69.57,Completed,Isha Shah
+ORD00297,2025-04-20,CUST0109,North,Skincare Kit,Beauty,4,93.12,372.48,Completed,Diya Patel
+ORD00298,2025-07-25,CUST0090,West,Jacket,Clothing,1,133.1,133.1,Completed,Diya Patel
+ORD00299,2025-01-31,CUST0189,East,Office Chair,Furniture,2,1185.88,2371.76,Completed,Isha Shah
+ORD00300,2025-03-26,CUST0209,South,Makeup Set,Beauty,2,26.59,53.18,Completed,Anaya Desai
+ORD00301,2025-07-14,CUST0044,North,Smartwatch,Electronics,3,472.91,1418.73,Completed,Isha Shah
+ORD00302,2025-01-02,CUST0174,South,Vacuum Cleaner,Home & Kitchen,5,209.0,1045.0,Completed,Diya Patel
+ORD00303,2025-07-19,CUST0033,South,Sneakers,Clothing,3,139.03,417.09,Completed,Rohan Mehta
+ORD00304,2025-05-16,CUST0174,South,Jeans,Clothing,2,111.04,222.08,Completed,Kabir Patel
+ORD00305,2025-08-21,CUST0097,North,Study Table,Furniture,3,908.4,2725.2,Completed,Mira Trivedi
+ORD00306,2025-05-27,CUST0225,North,Smartphone,Electronics,3,531.19,1593.57,Returned,Isha Shah
+ORD00307,2025-08-05,CUST0217,South,Sofa,Furniture,1,558.2,558.2,Completed,Diya Patel
+ORD00308,2025-12-23,CUST0248,West,Bookshelf,Furniture,5,1290.15,6450.75,Completed,Kabir Patel
+ORD00309,2025-10-12,CUST0148,West,Sneakers,Clothing,3,51.25,153.75,Cancelled,Rohan Mehta
+ORD00310,2025-12-05,CUST0161,East,Makeup Set,Beauty,1,96.29,96.29,Completed,Mira Trivedi
+ORD00311,2025-09-07,CUST0001,West,Smartphone,Electronics,2,1120.96,2241.92,Completed,Kabir Patel
+ORD00312,2025-03-21,CUST0239,East,Jeans,Clothing,3,134.09,402.27,Completed,Vivaan Joshi
+ORD00313,2025-04-08,CUST0167,North,Headphones,Electronics,3,360.44,1081.32,Completed,Rohan Mehta
+ORD00314,2025-06-01,CUST0024,West,Tablet,Electronics,2,780.68,1561.36,Returned,Diya Patel
+ORD00315,2025-04-22,CUST0133,North,Laptop,Electronics,2,614.02,1228.04,Cancelled,Mira Trivedi
+ORD00316,2025-01-30,CUST0109,South,Smartphone,Electronics,1,859.07,859.07,Completed,Rohan Mehta
+ORD00317,2025-10-24,CUST0027,South,Office Chair,Furniture,1,420.53,420.53,Completed,Diya Patel
+ORD00318,2025-10-05,CUST0209,West,Vacuum Cleaner,Home & Kitchen,2,310.73,621.46,Completed,Rohan Mehta
+ORD00319,2025-02-01,CUST0043,North,T-Shirt,Clothing,1,86.62,86.62,Completed,Mira Trivedi
+ORD00320,2025-06-10,CUST0158,South,Cookware Set,Home & Kitchen,2,227.27,454.54,Completed,Mira Trivedi
+ORD00321,2025-01-30,CUST0151,South,T-Shirt,Clothing,2,136.04,272.08,Completed,Kabir Patel
+ORD00322,2025-01-26,CUST0166,West,Blender,Home & Kitchen,2,123.79,247.58,Completed,Diya Patel
+ORD00323,2025-10-27,CUST0241,West,Dress,Clothing,5,96.13,480.65,Completed,Aarav Shah
+ORD00324,2025-09-02,CUST0101,East,Cookware Set,Home & Kitchen,5,190.86,954.3,Completed,Vivaan Joshi
+ORD00325,2025-09-15,CUST0164,West,Laptop,Electronics,1,634.27,634.27,Returned,Diya Patel
+ORD00326,2025-09-29,CUST0221,East,Skincare Kit,Beauty,3,118.53,355.59,Completed,Kabir Patel
+ORD00327,2025-03-22,CUST0198,South,Storage Box,Home & Kitchen,4,245.37,981.48,Completed,Diya Patel
+ORD00328,2025-01-30,CUST0237,East,Smartwatch,Electronics,3,155.64,466.92,Completed,Aarav Shah
+ORD00329,2025-09-18,CUST0109,South,Bedside Table,Furniture,5,501.08,2505.4,Completed,Kabir Patel
+ORD00330,2025-02-11,CUST0080,West,Smartwatch,Electronics,2,682.17,1364.34,Completed,Diya Patel
+ORD00331,2025-04-06,CUST0101,North,Perfume,Beauty,2,117.12,234.24,Completed,Diya Patel
+ORD00332,2025-02-05,CUST0023,East,Blender,Home & Kitchen,2,260.89,521.78,Completed,Kabir Patel
+ORD00333,2025-11-01,CUST0190,West,Tablet,Electronics,1,765.77,765.77,Completed,Rohan Mehta
+ORD00334,2025-02-04,CUST0244,East,Smartphone,Electronics,1,872.85,872.85,Completed,Isha Shah
+ORD00335,2025-12-12,CUST0033,East,Face Wash,Beauty,3,95.69,287.07,Completed,Vivaan Joshi
+ORD00336,2025-05-01,CUST0017,West,Smartphone,Electronics,4,455.21,1820.84,Completed,Vivaan Joshi
+ORD00337,2025-07-26,CUST0128,West,Skincare Kit,Beauty,5,63.57,317.85,Cancelled,Rohan Mehta
+ORD00338,2025-03-03,CUST0173,South,Cookware Set,Home & Kitchen,1,104.19,104.19,Completed,Diya Patel
+ORD00339,2025-10-19,CUST0121,West,Dress,Clothing,1,15.35,15.35,Completed,Isha Shah
+ORD00340,2025-05-07,CUST0234,North,Study Table,Furniture,1,350.55,350.55,Completed,Kabir Patel
+ORD00341,2025-10-24,CUST0020,West,Jacket,Clothing,3,48.52,145.56,Completed,Isha Shah
+ORD00342,2025-11-01,CUST0206,East,Smartwatch,Electronics,1,834.12,834.12,Completed,Aarav Shah
+ORD00343,2025-01-21,CUST0080,South,Office Chair,Furniture,3,1327.79,3983.37,Completed,Isha Shah
+ORD00344,2025-11-14,CUST0145,East,Smartwatch,Electronics,3,591.56,1774.68,Completed,Vivaan Joshi
+ORD00345,2025-02-11,CUST0198,South,Perfume,Beauty,5,59.96,299.8,Completed,Anaya Desai
+ORD00346,2025-08-03,CUST0139,East,Perfume,Beauty,4,24.86,99.44,Completed,Isha Shah
+ORD00347,2025-12-03,CUST0187,South,Headphones,Electronics,4,81.64,326.56,Completed,Vivaan Joshi
+ORD00348,2025-10-26,CUST0247,West,Laptop,Electronics,2,673.39,1346.78,Completed,Aarav Shah
+ORD00349,2025-10-17,CUST0134,South,Jacket,Clothing,2,27.56,55.12,Completed,Kabir Patel
+ORD00350,2025-09-25,CUST0130,North,Blender,Home & Kitchen,1,341.6,341.6,Completed,Rohan Mehta
+ORD00351,2025-06-11,CUST0247,West,Office Chair,Furniture,1,928.65,928.65,Completed,Rohan Mehta
+ORD00352,2025-05-14,CUST0101,South,Jacket,Clothing,3,50.23,150.69,Cancelled,Isha Shah
+ORD00353,2025-04-15,CUST0035,South,Blender,Home & Kitchen,1,109.75,109.75,Completed,Diya Patel
+ORD00354,2025-12-09,CUST0031,West,T-Shirt,Clothing,4,37.19,148.76,Completed,Isha Shah
+ORD00355,2025-06-10,CUST0024,South,Sneakers,Clothing,3,56.62,169.86,Completed,Rohan Mehta
+ORD00356,2025-05-03,CUST0183,East,Storage Box,Home & Kitchen,3,33.31,99.93,Completed,Anaya Desai
+ORD00357,2025-05-16,CUST0045,West,Blender,Home & Kitchen,3,189.44,568.32,Completed,Aarav Shah
+ORD00358,2025-07-22,CUST0119,West,Sofa,Furniture,5,878.34,4391.7,Completed,Diya Patel
+ORD00359,2025-03-09,CUST0211,East,T-Shirt,Clothing,2,16.61,33.22,Returned,Kabir Patel
+ORD00360,2025-12-10,CUST0020,South,Mixer,Home & Kitchen,3,212.17,636.51,Completed,Aarav Shah
+ORD00361,2025-11-27,CUST0024,South,Laptop,Electronics,4,1090.8,4363.2,Completed,Isha Shah
+ORD00362,2025-06-03,CUST0147,East,Smartphone,Electronics,1,1135.35,1135.35,Completed,Kabir Patel
+ORD00363,2025-08-23,CUST0055,East,Sofa,Furniture,4,141.28,565.12,Completed,Rohan Mehta
+ORD00364,2025-06-11,CUST0159,East,Vacuum Cleaner,Home & Kitchen,2,167.18,334.36,Completed,Anaya Desai
+ORD00365,2025-02-07,CUST0023,West,Blender,Home & Kitchen,5,155.96,779.8,Returned,Vivaan Joshi
+ORD00366,2025-01-05,CUST0206,West,Study Table,Furniture,5,686.93,3434.65,Completed,Aarav Shah
+ORD00367,2025-08-23,CUST0145,West,Bookshelf,Furniture,4,771.56,3086.24,Returned,Isha Shah
+ORD00368,2025-11-15,CUST0008,North,Bookshelf,Furniture,3,351.74,1055.22,Cancelled,Vivaan Joshi
+ORD00369,2025-10-16,CUST0250,South,Tablet,Electronics,5,672.96,3364.8,Completed,Rohan Mehta
+ORD00370,2025-02-21,CUST0203,North,Laptop,Electronics,3,815.69,2447.07,Completed,Aarav Shah
+ORD00371,2025-02-07,CUST0215,West,Dress,Clothing,4,129.28,517.12,Completed,Rohan Mehta
+ORD00372,2025-10-03,CUST0008,South,Jeans,Clothing,3,94.99,284.97,Completed,Isha Shah
+ORD00373,2025-04-20,CUST0208,South,Face Wash,Beauty,2,23.92,47.84,Completed,Mira Trivedi
+ORD00374,2025-09-17,CUST0060,East,Hair Dryer,Beauty,1,27.66,27.66,Completed,Anaya Desai
+ORD00375,2025-05-16,CUST0052,South,Smartwatch,Electronics,3,615.35,1846.05,Completed,Rohan Mehta
+ORD00376,2025-03-09,CUST0038,East,Cookware Set,Home & Kitchen,3,323.2,969.6,Completed,Rohan Mehta
+ORD00377,2025-06-28,CUST0242,West,Smartwatch,Electronics,1,1043.95,1043.95,Cancelled,Kabir Patel
+ORD00378,2025-02-05,CUST0041,East,Skincare Kit,Beauty,3,45.69,137.07,Completed,Kabir Patel
+ORD00379,2025-05-06,CUST0238,North,Bookshelf,Furniture,5,343.88,1719.4,Cancelled,Isha Shah
+ORD00380,2025-07-09,CUST0177,West,Dress,Clothing,4,124.95,499.8,Completed,Vivaan Joshi
+ORD00381,2025-05-26,CUST0198,West,Jeans,Clothing,5,113.39,566.95,Completed,Aarav Shah
+ORD00382,2025-03-22,CUST0145,West,Dress,Clothing,5,57.96,289.8,Completed,Diya Patel
+ORD00383,2025-08-13,CUST0082,West,Study Table,Furniture,1,563.64,563.64,Completed,Rohan Mehta
+ORD00384,2025-10-06,CUST0178,East,Headphones,Electronics,3,580.23,1740.69,Cancelled,Diya Patel
+ORD00385,2025-12-27,CUST0113,East,Vacuum Cleaner,Home & Kitchen,1,279.72,279.72,Completed,Kabir Patel
+ORD00386,2025-06-04,CUST0097,West,Sneakers,Clothing,4,81.57,326.28,Cancelled,Diya Patel
+ORD00387,2025-11-10,CUST0019,East,Bedside Table,Furniture,2,1011.36,2022.72,Completed,Aarav Shah
+ORD00388,2025-12-01,CUST0044,East,Mixer,Home & Kitchen,1,125.18,125.18,Completed,Kabir Patel
+ORD00389,2025-09-28,CUST0158,West,T-Shirt,Clothing,1,88.85,88.85,Completed,Mira Trivedi
+ORD00390,2025-01-05,CUST0112,North,Tablet,Electronics,2,1135.54,2271.08,Cancelled,Rohan Mehta
+ORD00391,2025-12-08,CUST0142,West,Smartphone,Electronics,2,450.83,901.66,Returned,Vivaan Joshi
+ORD00392,2025-10-11,CUST0141,West,Vacuum Cleaner,Home & Kitchen,1,98.39,98.39,Completed,Mira Trivedi
+ORD00393,2025-06-03,CUST0211,East,T-Shirt,Clothing,4,63.71,254.84,Completed,Mira Trivedi
+ORD00394,2025-12-06,CUST0021,North,T-Shirt,Clothing,2,18.47,36.94,Completed,Mira Trivedi
+ORD00395,2025-02-23,CUST0170,West,Headphones,Electronics,4,959.06,3836.24,Completed,Vivaan Joshi
+ORD00396,2025-03-10,CUST0095,South,Smartwatch,Electronics,3,514.03,1542.09,Returned,Rohan Mehta
+ORD00397,2025-05-16,CUST0215,West,Office Chair,Furniture,4,468.61,1874.44,Cancelled,Vivaan Joshi
+ORD00398,2025-03-01,CUST0089,East,Skincare Kit,Beauty,1,24.93,24.93,Completed,Kabir Patel
+ORD00399,2025-02-24,CUST0108,South,Perfume,Beauty,4,70.0,280.0,Completed,Mira Trivedi
+ORD00400,2025-10-11,CUST0219,West,Perfume,Beauty,1,61.34,61.34,Completed,Aarav Shah
+ORD00401,2025-03-21,CUST0159,North,Face Wash,Beauty,5,108.85,544.25,Completed,Rohan Mehta
+ORD00402,2025-05-20,CUST0207,South,Tablet,Electronics,2,273.62,547.24,Cancelled,Anaya Desai
+ORD00403,2025-05-25,CUST0211,East,T-Shirt,Clothing,4,72.16,288.64,Completed,Rohan Mehta
+ORD00404,2025-11-06,CUST0143,East,Hair Dryer,Beauty,1,43.81,43.81,Cancelled,Kabir Patel
+ORD00405,2025-04-18,CUST0224,West,Hair Dryer,Beauty,5,103.94,519.7,Completed,Aarav Shah
+ORD00406,2025-06-25,CUST0039,East,Face Wash,Beauty,4,66.53,266.12,Cancelled,Rohan Mehta
+ORD00407,2025-04-15,CUST0145,South,Face Wash,Beauty,1,73.26,73.26,Completed,Diya Patel
+ORD00408,2025-12-18,CUST0168,West,Storage Box,Home & Kitchen,4,310.44,1241.76,Completed,Mira Trivedi
+ORD00409,2025-11-21,CUST0037,West,Face Wash,Beauty,2,60.98,121.96,Cancelled,Kabir Patel
+ORD00410,2025-05-16,CUST0013,North,Tablet,Electronics,3,1076.32,3228.96,Completed,Mira Trivedi
+ORD00411,2025-09-16,CUST0216,West,Vacuum Cleaner,Home & Kitchen,3,26.68,80.04,Completed,Mira Trivedi
+ORD00412,2025-09-08,CUST0083,South,Laptop,Electronics,4,230.51,922.04,Returned,Vivaan Joshi
+ORD00413,2025-05-09,CUST0234,West,Bedside Table,Furniture,2,1003.78,2007.56,Returned,Kabir Patel
+ORD00414,2025-01-27,CUST0041,North,Bedside Table,Furniture,1,1314.06,1314.06,Completed,Diya Patel
+ORD00415,2025-02-17,CUST0008,South,Storage Box,Home & Kitchen,5,153.12,765.6,Completed,Rohan Mehta
+ORD00416,2025-11-21,CUST0013,East,Jeans,Clothing,2,127.99,255.98,Completed,Isha Shah
+ORD00417,2025-08-05,CUST0163,North,Jacket,Clothing,4,64.73,258.92,Completed,Diya Patel
+ORD00418,2025-05-22,CUST0246,West,Laptop,Electronics,5,497.16,2485.8,Completed,Mira Trivedi
+ORD00419,2025-01-23,CUST0067,South,Face Wash,Beauty,2,47.17,94.34,Completed,Diya Patel
+ORD00420,2025-01-02,CUST0200,South,Mixer,Home & Kitchen,2,147.57,295.14,Completed,Anaya Desai
+ORD00421,2025-06-20,CUST0132,North,Jeans,Clothing,3,106.49,319.47,Cancelled,Aarav Shah
+ORD00422,2025-03-08,CUST0003,North,Tablet,Electronics,2,1100.9,2201.8,Cancelled,Anaya Desai
+ORD00423,2025-11-23,CUST0182,South,Storage Box,Home & Kitchen,3,285.68,857.04,Completed,Vivaan Joshi
+ORD00424,2025-05-15,CUST0120,West,Sofa,Furniture,4,1292.22,5168.88,Completed,Vivaan Joshi
+ORD00425,2025-03-24,CUST0170,East,Face Wash,Beauty,1,52.48,52.48,Completed,Isha Shah
+ORD00426,2025-08-15,CUST0124,North,Face Wash,Beauty,3,76.21,228.63,Completed,Diya Patel
+ORD00427,2025-10-10,CUST0183,West,Vacuum Cleaner,Home & Kitchen,3,231.4,694.2,Completed,Vivaan Joshi
+ORD00428,2025-12-28,CUST0207,South,Jeans,Clothing,2,84.83,169.66,Cancelled,Kabir Patel
+ORD00429,2025-08-07,CUST0067,South,Cookware Set,Home & Kitchen,4,258.02,1032.08,Completed,Kabir Patel
+ORD00430,2025-10-15,CUST0147,South,Sofa,Furniture,5,1131.42,5657.1,Completed,Anaya Desai
+ORD00431,2025-01-05,CUST0172,South,Cookware Set,Home & Kitchen,4,246.48,985.92,Completed,Isha Shah
+ORD00432,2025-02-27,CUST0025,East,Hair Dryer,Beauty,5,102.69,513.45,Completed,Mira Trivedi
+ORD00433,2025-02-08,CUST0047,South,Jacket,Clothing,5,112.9,564.5,Completed,Isha Shah
+ORD00434,2025-12-20,CUST0228,West,Laptop,Electronics,3,477.92,1433.76,Completed,Isha Shah
+ORD00435,2025-03-18,CUST0121,South,Vacuum Cleaner,Home & Kitchen,4,213.24,852.96,Completed,Aarav Shah
+ORD00436,2025-10-07,CUST0050,West,Face Wash,Beauty,1,113.76,113.76,Completed,Diya Patel
+ORD00437,2025-01-19,CUST0039,South,Bedside Table,Furniture,1,517.7,517.7,Completed,Rohan Mehta
+ORD00438,2025-07-09,CUST0118,South,Jacket,Clothing,5,70.24,351.2,Cancelled,Rohan Mehta
+ORD00439,2025-10-26,CUST0046,West,Cookware Set,Home & Kitchen,4,277.05,1108.2,Completed,Isha Shah
+ORD00440,2025-10-10,CUST0044,South,Smartphone,Electronics,2,586.3,1172.6,Completed,Rohan Mehta
+ORD00441,2025-03-17,CUST0104,North,Office Chair,Furniture,4,281.17,1124.68,Completed,Kabir Patel
+ORD00442,2025-08-09,CUST0096,East,Sofa,Furniture,5,106.54,532.7,Returned,Aarav Shah
+ORD00443,2025-03-07,CUST0064,North,Storage Box,Home & Kitchen,1,82.89,82.89,Completed,Anaya Desai
+ORD00444,2025-01-22,CUST0079,North,Vacuum Cleaner,Home & Kitchen,4,62.55,250.2,Completed,Rohan Mehta
+ORD00445,2025-06-07,CUST0134,West,Smartphone,Electronics,3,413.99,1241.97,Cancelled,Isha Shah
+ORD00446,2025-07-06,CUST0049,West,Study Table,Furniture,4,579.83,2319.32,Returned,Rohan Mehta
+ORD00447,2025-01-21,CUST0006,East,Office Chair,Furniture,2,419.79,839.58,Returned,Rohan Mehta
+ORD00448,2025-07-03,CUST0164,West,Headphones,Electronics,1,876.44,876.44,Completed,Vivaan Joshi
+ORD00449,2025-04-18,CUST0168,North,Face Wash,Beauty,1,13.44,13.44,Completed,Aarav Shah
+ORD00450,2025-12-16,CUST0065,East,Smartphone,Electronics,4,546.79,2187.16,Completed,Mira Trivedi
+ORD00451,2025-05-08,CUST0170,West,Jeans,Clothing,1,108.85,108.85,Completed,Diya Patel
+ORD00452,2025-12-08,CUST0231,West,Hair Dryer,Beauty,2,77.75,155.5,Completed,Diya Patel
+ORD00453,2025-02-22,CUST0128,South,Face Wash,Beauty,1,21.19,21.19,Completed,Anaya Desai
+ORD00454,2025-07-01,CUST0092,South,Perfume,Beauty,5,95.13,475.65,Cancelled,Kabir Patel
+ORD00455,2025-10-14,CUST0177,South,Cookware Set,Home & Kitchen,4,33.0,132.0,Completed,Mira Trivedi
+ORD00456,2025-07-28,CUST0214,South,Cookware Set,Home & Kitchen,1,20.9,20.9,Completed,Mira Trivedi
+ORD00457,2025-11-14,CUST0026,South,T-Shirt,Clothing,1,120.24,120.24,Completed,Vivaan Joshi
+ORD00458,2025-03-21,CUST0013,West,Sneakers,Clothing,3,148.47,445.41,Completed,Diya Patel
+ORD00459,2025-05-02,CUST0081,South,T-Shirt,Clothing,3,130.05,390.15,Completed,Kabir Patel
+ORD00460,2025-03-25,CUST0036,East,Smartphone,Electronics,1,1033.4,1033.4,Completed,Rohan Mehta
+ORD00461,2025-04-01,CUST0188,West,Vacuum Cleaner,Home & Kitchen,5,315.19,1575.95,Completed,Diya Patel
+ORD00462,2025-07-31,CUST0117,West,Vacuum Cleaner,Home & Kitchen,4,80.35,321.4,Completed,Vivaan Joshi
+ORD00463,2025-01-13,CUST0179,East,Sofa,Furniture,2,1219.86,2439.72,Completed,Aarav Shah
+ORD00464,2025-04-02,CUST0146,West,T-Shirt,Clothing,5,71.16,355.8,Completed,Mira Trivedi
+ORD00465,2025-06-20,CUST0221,North,Dress,Clothing,3,66.27,198.81,Returned,Rohan Mehta
+ORD00466,2025-07-30,CUST0017,West,Sofa,Furniture,4,258.11,1032.44,Completed,Vivaan Joshi
+ORD00467,2025-12-09,CUST0148,South,Mixer,Home & Kitchen,5,252.51,1262.55,Completed,Anaya Desai
+ORD00468,2025-05-08,CUST0170,East,Storage Box,Home & Kitchen,5,192.62,963.1,Cancelled,Anaya Desai
+ORD00469,2025-05-17,CUST0212,East,Bookshelf,Furniture,4,1029.19,4116.76,Completed,Aarav Shah
+ORD00470,2025-03-23,CUST0223,South,Laptop,Electronics,4,646.24,2584.96,Returned,Rohan Mehta
+ORD00471,2025-12-26,CUST0013,South,Tablet,Electronics,3,439.11,1317.33,Completed,Anaya Desai
+ORD00472,2025-02-25,CUST0114,East,Makeup Set,Beauty,2,53.17,106.34,Returned,Mira Trivedi
+ORD00473,2025-07-15,CUST0191,South,Tablet,Electronics,1,580.72,580.72,Completed,Aarav Shah
+ORD00474,2025-01-20,CUST0212,North,Tablet,Electronics,5,541.82,2709.1,Cancelled,Diya Patel
+ORD00475,2025-08-29,CUST0168,North,Face Wash,Beauty,5,79.4,397.0,Completed,Mira Trivedi
+ORD00476,2025-04-24,CUST0085,South,Vacuum Cleaner,Home & Kitchen,2,292.35,584.7,Returned,Mira Trivedi
+ORD00477,2025-04-13,CUST0091,East,Blender,Home & Kitchen,2,57.63,115.26,Completed,Vivaan Joshi
+ORD00478,2025-08-24,CUST0043,East,Face Wash,Beauty,1,49.88,49.88,Completed,Mira Trivedi
+ORD00479,2025-06-29,CUST0031,East,Sneakers,Clothing,5,29.44,147.2,Returned,Kabir Patel
+ORD00480,2025-06-06,CUST0028,South,Sneakers,Clothing,2,126.31,252.62,Completed,Kabir Patel
+ORD00481,2025-04-27,CUST0151,West,Smartwatch,Electronics,4,218.01,872.04,Completed,Rohan Mehta
+ORD00482,2025-04-25,CUST0111,North,Office Chair,Furniture,1,842.51,842.51,Completed,Mira Trivedi
+ORD00483,2025-01-13,CUST0033,South,Perfume,Beauty,2,85.48,170.96,Completed,Diya Patel
+ORD00484,2025-12-04,CUST0099,North,Bedside Table,Furniture,3,948.63,2845.89,Completed,Kabir Patel
+ORD00485,2025-04-09,CUST0116,South,Perfume,Beauty,3,38.64,115.92,Completed,Rohan Mehta
+ORD00486,2025-07-24,CUST0180,West,Sneakers,Clothing,5,96.34,481.7,Cancelled,Isha Shah
+ORD00487,2025-06-18,CUST0176,South,Perfume,Beauty,5,30.5,152.5,Completed,Isha Shah
+ORD00488,2025-05-23,CUST0195,South,Jeans,Clothing,3,83.03,249.09,Completed,Isha Shah
+ORD00489,2025-02-05,CUST0229,North,Makeup Set,Beauty,4,73.27,293.08,Returned,Vivaan Joshi
+ORD00490,2025-05-23,CUST0014,West,Office Chair,Furniture,1,831.82,831.82,Cancelled,Aarav Shah
+ORD00491,2025-06-29,CUST0175,South,Jacket,Clothing,2,116.27,232.54,Completed,Vivaan Joshi
+ORD00492,2025-11-25,CUST0139,East,T-Shirt,Clothing,3,108.23,324.69,Completed,Aarav Shah
+ORD00493,2025-09-18,CUST0191,South,Blender,Home & Kitchen,5,53.82,269.1,Completed,Kabir Patel
+ORD00494,2025-07-24,CUST0013,North,Dress,Clothing,3,120.88,362.64,Completed,Kabir Patel
+ORD00495,2025-12-14,CUST0014,South,Sofa,Furniture,3,1439.38,4318.14,Completed,Aarav Shah
+ORD00496,2025-10-02,CUST0234,South,Cookware Set,Home & Kitchen,4,224.79,899.16,Completed,Isha Shah
+ORD00497,2025-06-19,CUST0247,South,Face Wash,Beauty,2,90.71,181.42,Completed,Anaya Desai
+ORD00498,2025-01-15,CUST0045,East,Blender,Home & Kitchen,1,78.55,78.55,Completed,Diya Patel
+ORD00499,2025-03-01,CUST0042,West,Office Chair,Furniture,5,699.91,3499.55,Returned,Vivaan Joshi
+ORD00500,2025-05-14,CUST0238,East,Headphones,Electronics,2,602.29,1204.58,Returned,Isha Shah
+ORD00501,2025-04-02,CUST0078,South,Skincare Kit,Beauty,5,94.65,473.25,Completed,Mira Trivedi
+ORD00502,2025-10-25,CUST0245,North,Face Wash,Beauty,3,48.11,144.33,Completed,Rohan Mehta
+ORD00503,2025-05-16,CUST0138,West,Skincare Kit,Beauty,2,96.06,192.12,Completed,Kabir Patel
+ORD00504,2025-01-20,CUST0085,North,Headphones,Electronics,2,327.74,655.48,Cancelled,Isha Shah
+ORD00505,2025-02-25,CUST0144,North,Cookware Set,Home & Kitchen,5,333.6,1668.0,Completed,Aarav Shah
+ORD00506,2025-11-02,CUST0063,South,Headphones,Electronics,5,579.15,2895.75,Completed,Aarav Shah
+ORD00507,2025-08-11,CUST0139,West,Blender,Home & Kitchen,1,322.26,322.26,Returned,Vivaan Joshi
+ORD00508,2025-06-26,CUST0131,North,Smartwatch,Electronics,3,1000.76,3002.28,Cancelled,Mira Trivedi
+ORD00509,2025-06-10,CUST0022,West,Office Chair,Furniture,2,515.01,1030.02,Returned,Diya Patel
+ORD00510,2025-08-12,CUST0162,East,Dress,Clothing,1,86.98,86.98,Completed,Anaya Desai
+ORD00511,2025-11-07,CUST0241,North,Office Chair,Furniture,4,387.81,1551.24,Completed,Diya Patel
+ORD00512,2025-09-19,CUST0019,East,T-Shirt,Clothing,3,77.0,231.0,Completed,Aarav Shah
+ORD00513,2025-03-01,CUST0234,South,Jacket,Clothing,5,90.34,451.7,Returned,Vivaan Joshi
+ORD00514,2025-07-17,CUST0005,West,Sofa,Furniture,4,731.58,2926.32,Cancelled,Kabir Patel
+ORD00515,2025-10-23,CUST0191,East,Smartwatch,Electronics,5,86.61,433.05,Completed,Aarav Shah
+ORD00516,2025-04-08,CUST0176,West,Headphones,Electronics,1,1119.41,1119.41,Completed,Vivaan Joshi
+ORD00517,2025-05-11,CUST0211,West,Skincare Kit,Beauty,4,39.53,158.12,Completed,Aarav Shah
+ORD00518,2025-01-23,CUST0204,South,Study Table,Furniture,2,846.85,1693.7,Cancelled,Vivaan Joshi
+ORD00519,2025-12-29,CUST0003,South,Jacket,Clothing,3,106.43,319.29,Returned,Rohan Mehta
+ORD00520,2025-08-12,CUST0141,West,Smartphone,Electronics,5,85.63,428.15,Completed,Diya Patel
+ORD00521,2025-01-01,CUST0232,East,Cookware Set,Home & Kitchen,3,266.94,800.82,Completed,Rohan Mehta
+ORD00522,2025-09-24,CUST0047,East,Jeans,Clothing,3,44.81,134.43,Completed,Aarav Shah
+ORD00523,2025-10-03,CUST0018,West,Makeup Set,Beauty,1,80.2,80.2,Returned,Vivaan Joshi
+ORD00524,2025-12-18,CUST0092,South,Laptop,Electronics,4,892.66,3570.64,Cancelled,Rohan Mehta
+ORD00525,2025-12-10,CUST0082,South,T-Shirt,Clothing,1,53.49,53.49,Cancelled,Mira Trivedi
+ORD00526,2025-04-11,CUST0040,North,Bookshelf,Furniture,3,962.88,2888.64,Completed,Isha Shah
+ORD00527,2025-07-06,CUST0057,West,Blender,Home & Kitchen,3,75.65,226.95,Completed,Kabir Patel
+ORD00528,2025-08-09,CUST0119,South,Vacuum Cleaner,Home & Kitchen,3,64.32,192.96,Completed,Mira Trivedi
+ORD00529,2025-02-05,CUST0156,East,Vacuum Cleaner,Home & Kitchen,1,180.7,180.7,Completed,Diya Patel
+ORD00530,2025-12-07,CUST0227,West,Cookware Set,Home & Kitchen,2,314.13,628.26,Cancelled,Diya Patel
+ORD00531,2025-06-19,CUST0149,South,Smartphone,Electronics,1,1031.54,1031.54,Cancelled,Kabir Patel
+ORD00532,2025-11-16,CUST0229,West,Perfume,Beauty,5,109.51,547.55,Returned,Mira Trivedi
+ORD00533,2025-06-10,CUST0075,South,Jacket,Clothing,5,67.99,339.95,Returned,Rohan Mehta
+ORD00534,2025-12-06,CUST0003,West,Bedside Table,Furniture,4,814.58,3258.32,Completed,Anaya Desai
+ORD00535,2025-03-05,CUST0046,West,Perfume,Beauty,2,92.81,185.62,Completed,Rohan Mehta
+ORD00536,2025-06-03,CUST0068,West,Bookshelf,Furniture,4,156.59,626.36,Returned,Isha Shah
+ORD00537,2025-09-17,CUST0093,South,T-Shirt,Clothing,5,105.26,526.3,Cancelled,Kabir Patel
+ORD00538,2025-06-08,CUST0083,South,Sofa,Furniture,1,1334.17,1334.17,Completed,Diya Patel
+ORD00539,2025-12-08,CUST0146,North,Hair Dryer,Beauty,3,101.51,304.53,Completed,Rohan Mehta
+ORD00540,2025-07-29,CUST0097,North,Sofa,Furniture,1,611.42,611.42,Completed,Anaya Desai
+ORD00541,2025-06-17,CUST0124,West,Makeup Set,Beauty,3,47.52,142.56,Returned,Aarav Shah
+ORD00542,2025-07-26,CUST0165,East,Perfume,Beauty,2,57.27,114.54,Completed,Vivaan Joshi
+ORD00543,2025-12-23,CUST0210,North,Jeans,Clothing,3,40.23,120.69,Completed,Diya Patel
+ORD00544,2025-06-01,CUST0123,West,Sneakers,Clothing,1,124.51,124.51,Completed,Mira Trivedi
+ORD00545,2025-10-11,CUST0012,East,Dress,Clothing,4,36.77,147.08,Completed,Rohan Mehta
+ORD00546,2025-03-07,CUST0147,East,Face Wash,Beauty,5,26.05,130.25,Completed,Rohan Mehta
+ORD00547,2025-04-09,CUST0104,North,Laptop,Electronics,2,369.25,738.5,Completed,Aarav Shah
+ORD00548,2025-08-04,CUST0223,South,Mixer,Home & Kitchen,5,91.48,457.4,Completed,Mira Trivedi
+ORD00549,2025-12-07,CUST0150,East,Jeans,Clothing,5,127.1,635.5,Completed,Rohan Mehta
+ORD00550,2025-07-14,CUST0153,South,Face Wash,Beauty,3,37.63,112.89,Completed,Diya Patel
+ORD00551,2025-12-13,CUST0134,East,Sneakers,Clothing,1,67.04,67.04,Completed,Kabir Patel
+ORD00552,2025-03-31,CUST0154,South,Dress,Clothing,4,28.0,112.0,Cancelled,Aarav Shah
+ORD00553,2025-11-12,CUST0034,West,Face Wash,Beauty,1,92.27,92.27,Completed,Aarav Shah
+ORD00554,2025-10-19,CUST0110,North,Bedside Table,Furniture,1,688.96,688.96,Completed,Anaya Desai
+ORD00555,2025-06-04,CUST0035,East,Sofa,Furniture,5,590.72,2953.6,Cancelled,Vivaan Joshi
+ORD00556,2025-07-27,CUST0225,West,Study Table,Furniture,1,1374.12,1374.12,Completed,Kabir Patel
+ORD00557,2025-10-08,CUST0031,North,Cookware Set,Home & Kitchen,1,21.8,21.8,Completed,Aarav Shah
+ORD00558,2025-01-01,CUST0028,West,Study Table,Furniture,3,1062.87,3188.61,Completed,Rohan Mehta
+ORD00559,2025-06-05,CUST0094,West,Bedside Table,Furniture,5,455.09,2275.45,Completed,Vivaan Joshi
+ORD00560,2025-05-27,CUST0095,West,Study Table,Furniture,5,678.52,3392.6,Completed,Mira Trivedi
+ORD00561,2025-04-18,CUST0219,South,Vacuum Cleaner,Home & Kitchen,4,210.62,842.48,Completed,Diya Patel
+ORD00562,2025-08-09,CUST0131,East,Sneakers,Clothing,2,120.72,241.44,Completed,Kabir Patel
+ORD00563,2025-10-24,CUST0247,East,Storage Box,Home & Kitchen,1,222.63,222.63,Completed,Aarav Shah
+ORD00564,2025-11-07,CUST0017,West,Laptop,Electronics,5,608.27,3041.35,Completed,Vivaan Joshi
+ORD00565,2025-12-02,CUST0239,South,Jacket,Clothing,1,25.81,25.81,Completed,Kabir Patel
+ORD00566,2025-06-14,CUST0199,East,Face Wash,Beauty,5,40.08,200.4,Completed,Rohan Mehta
+ORD00567,2025-08-27,CUST0009,West,Sofa,Furniture,5,114.99,574.95,Completed,Anaya Desai
+ORD00568,2025-08-15,CUST0001,West,Perfume,Beauty,3,83.49,250.47,Completed,Rohan Mehta
+ORD00569,2025-08-15,CUST0104,North,Headphones,Electronics,3,953.23,2859.69,Cancelled,Anaya Desai
+ORD00570,2025-12-12,CUST0141,South,Skincare Kit,Beauty,1,90.54,90.54,Completed,Vivaan Joshi
+ORD00571,2025-04-20,CUST0247,West,Face Wash,Beauty,3,46.99,140.97,Completed,Anaya Desai
+ORD00572,2025-09-19,CUST0130,East,Sofa,Furniture,3,904.87,2714.61,Cancelled,Diya Patel
+ORD00573,2025-08-31,CUST0206,South,Skincare Kit,Beauty,3,64.35,193.05,Completed,Vivaan Joshi
+ORD00574,2025-03-28,CUST0145,South,Face Wash,Beauty,4,36.02,144.08,Completed,Mira Trivedi
+ORD00575,2025-12-04,CUST0230,North,Jacket,Clothing,4,144.77,579.08,Cancelled,Aarav Shah
+ORD00576,2025-02-13,CUST0057,North,Office Chair,Furniture,4,460.95,1843.8,Returned,Anaya Desai
+ORD00577,2025-05-26,CUST0180,North,Blender,Home & Kitchen,5,335.3,1676.5,Completed,Vivaan Joshi
+ORD00578,2025-09-21,CUST0239,East,Jacket,Clothing,3,27.56,82.68,Returned,Rohan Mehta
+ORD00579,2025-12-06,CUST0243,West,Bookshelf,Furniture,5,594.95,2974.75,Completed,Anaya Desai
+ORD00580,2025-11-21,CUST0053,South,Study Table,Furniture,2,428.81,857.62,Completed,Anaya Desai
+ORD00581,2025-11-14,CUST0028,East,Jeans,Clothing,3,127.91,383.73,Completed,Diya Patel
+ORD00582,2025-06-21,CUST0218,South,Tablet,Electronics,5,767.49,3837.45,Returned,Mira Trivedi
+ORD00583,2025-02-17,CUST0126,South,Storage Box,Home & Kitchen,5,124.09,620.45,Completed,Rohan Mehta
+ORD00584,2025-05-01,CUST0135,East,Hair Dryer,Beauty,5,52.56,262.8,Completed,Kabir Patel
+ORD00585,2025-12-11,CUST0176,West,Bedside Table,Furniture,3,145.59,436.77,Completed,Rohan Mehta
+ORD00586,2025-06-08,CUST0003,West,Office Chair,Furniture,4,1077.54,4310.16,Completed,Aarav Shah
+ORD00587,2025-04-26,CUST0221,West,Sneakers,Clothing,3,93.44,280.32,Completed,Vivaan Joshi
+ORD00588,2025-04-12,CUST0157,West,Dress,Clothing,3,50.48,151.44,Completed,Isha Shah
+ORD00589,2025-03-17,CUST0193,West,Cookware Set,Home & Kitchen,2,184.59,369.18,Completed,Isha Shah
+ORD00590,2025-01-13,CUST0148,North,Blender,Home & Kitchen,2,112.28,224.56,Completed,Anaya Desai
+ORD00591,2025-01-24,CUST0098,West,Headphones,Electronics,5,980.58,4902.9,Completed,Anaya Desai
+ORD00592,2025-05-06,CUST0128,East,Jeans,Clothing,1,78.85,78.85,Completed,Rohan Mehta
+ORD00593,2025-09-01,CUST0144,West,Face Wash,Beauty,4,88.7,354.8,Completed,Aarav Shah
+ORD00594,2025-11-09,CUST0066,East,Office Chair,Furniture,1,1066.76,1066.76,Completed,Mira Trivedi
+ORD00595,2025-02-07,CUST0144,West,Tablet,Electronics,3,913.94,2741.82,Cancelled,Vivaan Joshi
+ORD00596,2025-08-22,CUST0247,South,Mixer,Home & Kitchen,3,155.88,467.64,Completed,Anaya Desai
+ORD00597,2025-08-01,CUST0200,East,Face Wash,Beauty,5,80.78,403.9,Completed,Vivaan Joshi
+ORD00598,2025-11-19,CUST0115,South,Vacuum Cleaner,Home & Kitchen,4,242.15,968.6,Completed,Diya Patel
+ORD00599,2025-10-22,CUST0164,South,Bedside Table,Furniture,2,501.13,1002.26,Completed,Isha Shah
+ORD00600,2025-04-10,CUST0088,East,Bedside Table,Furniture,1,900.29,900.29,Completed,Anaya Desai
+ORD00601,2025-12-23,CUST0102,North,Vacuum Cleaner,Home & Kitchen,3,235.49,706.47,Completed,Vivaan Joshi
+ORD00602,2025-07-16,CUST0106,South,Bookshelf,Furniture,5,1147.05,5735.25,Completed,Rohan Mehta
+ORD00603,2025-09-11,CUST0241,North,T-Shirt,Clothing,2,31.88,63.76,Completed,Diya Patel
+ORD00604,2025-07-24,CUST0225,East,Jeans,Clothing,1,68.6,68.6,Completed,Mira Trivedi
+ORD00605,2025-05-05,CUST0022,North,Skincare Kit,Beauty,4,10.95,43.8,Completed,Diya Patel
+ORD00606,2025-03-17,CUST0064,West,Storage Box,Home & Kitchen,4,71.24,284.96,Completed,Vivaan Joshi
+ORD00607,2025-12-02,CUST0170,East,Study Table,Furniture,2,283.79,567.58,Completed,Isha Shah
+ORD00608,2025-12-19,CUST0141,South,Blender,Home & Kitchen,5,174.17,870.85,Completed,Mira Trivedi
+ORD00609,2025-01-03,CUST0192,West,Dress,Clothing,5,38.9,194.5,Completed,Kabir Patel
+ORD00610,2025-02-24,CUST0059,West,Face Wash,Beauty,3,42.68,128.04,Completed,Diya Patel
+ORD00611,2025-08-06,CUST0003,East,Bookshelf,Furniture,3,612.1,1836.3,Completed,Aarav Shah
+ORD00612,2025-04-23,CUST0177,North,Perfume,Beauty,4,46.52,186.08,Cancelled,Mira Trivedi
+ORD00613,2025-04-01,CUST0153,South,Bookshelf,Furniture,4,112.79,451.16,Completed,Anaya Desai
+ORD00614,2025-12-23,CUST0112,South,Smartwatch,Electronics,4,498.48,1993.92,Completed,Kabir Patel
+ORD00615,2025-09-23,CUST0057,South,Jeans,Clothing,4,111.52,446.08,Cancelled,Vivaan Joshi
+ORD00616,2025-08-26,CUST0233,South,Tablet,Electronics,5,780.36,3901.8,Returned,Vivaan Joshi
+ORD00617,2025-01-26,CUST0018,East,Storage Box,Home & Kitchen,4,286.91,1147.64,Completed,Rohan Mehta
+ORD00618,2025-10-13,CUST0070,North,Jacket,Clothing,4,29.9,119.6,Completed,Mira Trivedi
+ORD00619,2025-05-08,CUST0006,South,Jacket,Clothing,1,17.62,17.62,Cancelled,Rohan Mehta
+ORD00620,2025-03-04,CUST0060,South,Headphones,Electronics,4,381.5,1526.0,Completed,Diya Patel
+ORD00621,2025-08-22,CUST0202,West,T-Shirt,Clothing,3,81.63,244.89,Completed,Mira Trivedi
+ORD00622,2025-03-10,CUST0216,West,Blender,Home & Kitchen,1,249.99,249.99,Completed,Rohan Mehta
+ORD00623,2025-08-26,CUST0047,North,Headphones,Electronics,1,948.73,948.73,Completed,Anaya Desai
+ORD00624,2025-12-08,CUST0183,South,Blender,Home & Kitchen,1,293.32,293.32,Completed,Anaya Desai
+ORD00625,2025-09-29,CUST0189,East,Sofa,Furniture,1,446.03,446.03,Completed,Diya Patel
+ORD00626,2025-10-14,CUST0041,South,Perfume,Beauty,3,60.96,182.88,Completed,Aarav Shah
+ORD00627,2025-11-01,CUST0051,North,Face Wash,Beauty,4,21.68,86.72,Completed,Isha Shah
+ORD00628,2025-06-12,CUST0084,North,Laptop,Electronics,2,1170.07,2340.14,Completed,Aarav Shah
+ORD00629,2025-08-15,CUST0003,South,Jacket,Clothing,4,93.93,375.72,Completed,Aarav Shah
+ORD00630,2025-11-10,CUST0023,West,Makeup Set,Beauty,2,85.1,170.2,Completed,Anaya Desai
+ORD00631,2025-09-16,CUST0249,West,Sneakers,Clothing,5,27.34,136.7,Completed,Aarav Shah
+ORD00632,2025-08-07,CUST0033,South,Headphones,Electronics,5,801.92,4009.6,Cancelled,Mira Trivedi
+ORD00633,2025-10-08,CUST0113,South,Jacket,Clothing,3,147.53,442.59,Completed,Anaya Desai
+ORD00634,2025-08-17,CUST0011,West,Tablet,Electronics,2,481.15,962.3,Completed,Mira Trivedi
+ORD00635,2025-03-23,CUST0048,East,Bedside Table,Furniture,4,512.6,2050.4,Completed,Isha Shah
+ORD00636,2025-09-01,CUST0142,South,Blender,Home & Kitchen,5,110.86,554.3,Completed,Rohan Mehta
+ORD00637,2025-08-19,CUST0139,South,Smartwatch,Electronics,3,253.63,760.89,Completed,Isha Shah
+ORD00638,2025-05-13,CUST0048,West,Office Chair,Furniture,5,1186.29,5931.45,Completed,Aarav Shah
+ORD00639,2025-05-07,CUST0017,West,Hair Dryer,Beauty,2,94.91,189.82,Completed,Kabir Patel
+ORD00640,2025-11-23,CUST0073,East,Dress,Clothing,5,107.24,536.2,Completed,Isha Shah
+ORD00641,2025-05-22,CUST0012,North,Bookshelf,Furniture,5,254.65,1273.25,Completed,Rohan Mehta
+ORD00642,2025-09-24,CUST0009,East,T-Shirt,Clothing,4,42.28,169.12,Completed,Kabir Patel
+ORD00643,2025-09-06,CUST0094,West,Bedside Table,Furniture,5,973.56,4867.8,Completed,Anaya Desai
+ORD00644,2025-11-17,CUST0238,North,Skincare Kit,Beauty,2,9.47,18.94,Completed,Diya Patel
+ORD00645,2025-05-03,CUST0204,South,Office Chair,Furniture,4,605.3,2421.2,Completed,Aarav Shah
+ORD00646,2025-05-21,CUST0020,South,Hair Dryer,Beauty,1,67.25,67.25,Cancelled,Anaya Desai
+ORD00647,2025-08-14,CUST0049,North,Skincare Kit,Beauty,2,19.34,38.68,Completed,Anaya Desai
+ORD00648,2025-02-09,CUST0143,North,Perfume,Beauty,2,71.84,143.68,Completed,Kabir Patel
+ORD00649,2025-05-27,CUST0110,South,Smartwatch,Electronics,4,480.92,1923.68,Cancelled,Diya Patel
+ORD00650,2025-05-01,CUST0041,West,Jeans,Clothing,5,89.25,446.25,Completed,Mira Trivedi
+ORD00651,2025-05-20,CUST0106,South,Vacuum Cleaner,Home & Kitchen,3,201.53,604.59,Completed,Kabir Patel
+ORD00652,2025-06-21,CUST0197,East,Storage Box,Home & Kitchen,5,99.44,497.2,Completed,Vivaan Joshi
+ORD00653,2025-06-13,CUST0009,East,Blender,Home & Kitchen,4,167.67,670.68,Completed,Vivaan Joshi
+ORD00654,2025-10-04,CUST0057,East,Skincare Kit,Beauty,3,65.97,197.91,Completed,Anaya Desai
+ORD00655,2025-02-11,CUST0131,South,Mixer,Home & Kitchen,3,274.6,823.8,Completed,Rohan Mehta
+ORD00656,2025-03-12,CUST0094,East,Smartphone,Electronics,2,595.61,1191.22,Completed,Anaya Desai
+ORD00657,2025-03-19,CUST0146,North,Jacket,Clothing,1,124.5,124.5,Completed,Anaya Desai
+ORD00658,2025-04-29,CUST0231,West,Headphones,Electronics,2,968.05,1936.1,Completed,Diya Patel
+ORD00659,2025-07-16,CUST0200,West,Hair Dryer,Beauty,5,12.19,60.95,Completed,Aarav Shah
+ORD00660,2025-12-22,CUST0223,West,Vacuum Cleaner,Home & Kitchen,4,310.33,1241.32,Completed,Diya Patel
+ORD00661,2025-03-20,CUST0135,East,Dress,Clothing,4,140.37,561.48,Completed,Aarav Shah
+ORD00662,2025-12-28,CUST0057,North,Storage Box,Home & Kitchen,3,206.42,619.26,Returned,Rohan Mehta
+ORD00663,2025-04-20,CUST0024,North,Tablet,Electronics,5,1167.57,5837.85,Completed,Anaya Desai
+ORD00664,2025-02-02,CUST0022,East,Bookshelf,Furniture,2,1200.92,2401.84,Completed,Mira Trivedi
+ORD00665,2025-08-01,CUST0129,East,Skincare Kit,Beauty,3,69.39,208.17,Completed,Kabir Patel
+ORD00666,2025-07-28,CUST0167,West,Jeans,Clothing,2,79.92,159.84,Completed,Anaya Desai
+ORD00667,2025-06-19,CUST0019,West,Face Wash,Beauty,5,119.67,598.35,Completed,Vivaan Joshi
+ORD00668,2025-10-05,CUST0172,East,Bookshelf,Furniture,5,1058.63,5293.15,Completed,Kabir Patel
+ORD00669,2025-08-27,CUST0168,West,Bookshelf,Furniture,3,587.63,1762.89,Completed,Aarav Shah
+ORD00670,2025-08-01,CUST0206,South,Cookware Set,Home & Kitchen,5,345.93,1729.65,Completed,Mira Trivedi
+ORD00671,2025-02-01,CUST0096,East,Perfume,Beauty,2,57.33,114.66,Completed,Rohan Mehta
+ORD00672,2025-04-16,CUST0238,South,Smartphone,Electronics,2,908.33,1816.66,Cancelled,Rohan Mehta
+ORD00673,2025-08-04,CUST0121,West,Mixer,Home & Kitchen,1,133.28,133.28,Completed,Aarav Shah
+ORD00674,2025-07-19,CUST0134,East,Cookware Set,Home & Kitchen,2,264.2,528.4,Completed,Vivaan Joshi
+ORD00675,2025-10-27,CUST0172,North,Makeup Set,Beauty,2,77.78,155.56,Completed,Aarav Shah
+ORD00676,2025-12-23,CUST0044,East,Bedside Table,Furniture,5,1368.46,6842.3,Returned,Aarav Shah
+ORD00677,2025-01-11,CUST0120,West,Cookware Set,Home & Kitchen,5,280.43,1402.15,Completed,Aarav Shah
+ORD00678,2025-10-22,CUST0005,South,Tablet,Electronics,3,819.62,2458.86,Completed,Vivaan Joshi
+ORD00679,2025-07-14,CUST0026,South,Study Table,Furniture,5,1471.71,7358.55,Returned,Isha Shah
+ORD00680,2025-09-02,CUST0248,East,Bedside Table,Furniture,2,844.18,1688.36,Cancelled,Mira Trivedi
+ORD00681,2025-01-04,CUST0126,West,Skincare Kit,Beauty,5,12.45,62.25,Cancelled,Kabir Patel
+ORD00682,2025-06-30,CUST0078,West,T-Shirt,Clothing,3,61.82,185.46,Completed,Anaya Desai
+ORD00683,2025-06-02,CUST0228,South,Hair Dryer,Beauty,3,98.93,296.79,Completed,Aarav Shah
+ORD00684,2025-07-19,CUST0169,South,Hair Dryer,Beauty,3,33.27,99.81,Completed,Rohan Mehta
+ORD00685,2025-08-03,CUST0176,South,Tablet,Electronics,5,663.2,3316.0,Returned,Anaya Desai
+ORD00686,2025-10-03,CUST0233,South,Study Table,Furniture,4,902.06,3608.24,Completed,Isha Shah
+ORD00687,2025-10-07,CUST0176,North,Bedside Table,Furniture,2,284.48,568.96,Completed,Anaya Desai
+ORD00688,2025-11-05,CUST0111,South,Jacket,Clothing,5,107.95,539.75,Completed,Rohan Mehta
+ORD00689,2025-04-23,CUST0185,North,Perfume,Beauty,5,43.56,217.8,Completed,Diya Patel
+ORD00690,2025-09-07,CUST0196,South,Jacket,Clothing,2,128.34,256.68,Completed,Isha Shah
+ORD00691,2025-04-23,CUST0049,East,Sofa,Furniture,3,524.69,1574.07,Completed,Diya Patel
+ORD00692,2025-05-20,CUST0156,North,Jeans,Clothing,5,18.54,92.7,Completed,Anaya Desai
+ORD00693,2025-08-12,CUST0177,West,Perfume,Beauty,1,33.86,33.86,Completed,Mira Trivedi
+ORD00694,2025-09-06,CUST0096,South,Dress,Clothing,4,129.23,516.92,Completed,Rohan Mehta
+ORD00695,2025-01-15,CUST0009,East,Sofa,Furniture,2,763.39,1526.78,Completed,Kabir Patel
+ORD00696,2025-07-19,CUST0052,South,Headphones,Electronics,2,1144.22,2288.44,Completed,Anaya Desai
+ORD00697,2025-06-22,CUST0126,South,Laptop,Electronics,4,1118.36,4473.44,Completed,Isha Shah
+ORD00698,2025-12-09,CUST0212,North,Study Table,Furniture,1,698.58,698.58,Completed,Kabir Patel
+ORD00699,2025-12-14,CUST0135,North,Blender,Home & Kitchen,5,221.8,1109.0,Completed,Aarav Shah
+ORD00700,2025-07-27,CUST0063,South,Skincare Kit,Beauty,1,58.58,58.58,Completed,Kabir Patel
+ORD00701,2025-03-26,CUST0113,East,Smartwatch,Electronics,1,513.89,513.89,Completed,Kabir Patel
+ORD00702,2025-08-28,CUST0236,West,Vacuum Cleaner,Home & Kitchen,4,172.24,688.96,Completed,Aarav Shah
+ORD00703,2025-03-07,CUST0129,East,Perfume,Beauty,4,59.92,239.68,Completed,Diya Patel
+ORD00704,2025-11-15,CUST0106,East,Dress,Clothing,5,141.61,708.05,Completed,Isha Shah
+ORD00705,2025-10-01,CUST0230,South,Office Chair,Furniture,5,350.43,1752.15,Completed,Anaya Desai
+ORD00706,2025-01-14,CUST0032,South,Office Chair,Furniture,2,450.12,900.24,Returned,Diya Patel
+ORD00707,2025-07-21,CUST0099,North,Tablet,Electronics,1,790.16,790.16,Completed,Rohan Mehta
+ORD00708,2025-10-31,CUST0145,South,Bedside Table,Furniture,2,632.85,1265.7,Cancelled,Rohan Mehta
+ORD00709,2025-10-16,CUST0080,West,Jeans,Clothing,1,39.15,39.15,Completed,Mira Trivedi
+ORD00710,2025-12-06,CUST0001,South,Cookware Set,Home & Kitchen,2,58.79,117.58,Completed,Vivaan Joshi
+ORD00711,2025-01-14,CUST0002,North,Tablet,Electronics,4,637.34,2549.36,Completed,Mira Trivedi
+ORD00712,2025-02-12,CUST0114,West,Jeans,Clothing,4,94.5,378.0,Completed,Diya Patel
+ORD00713,2025-11-26,CUST0161,West,Face Wash,Beauty,5,8.74,43.7,Completed,Anaya Desai
+ORD00714,2025-08-08,CUST0219,East,Laptop,Electronics,3,246.05,738.15,Completed,Aarav Shah
+ORD00715,2025-03-11,CUST0107,East,Face Wash,Beauty,1,41.43,41.43,Completed,Rohan Mehta
+ORD00716,2025-08-25,CUST0144,North,Jacket,Clothing,5,97.5,487.5,Returned,Rohan Mehta
+ORD00717,2025-04-04,CUST0077,East,Bedside Table,Furniture,1,604.26,604.26,Cancelled,Isha Shah
+ORD00718,2025-01-26,CUST0017,South,Blender,Home & Kitchen,4,290.69,1162.76,Returned,Vivaan Joshi
+ORD00719,2025-05-14,CUST0106,West,Study Table,Furniture,3,270.83,812.49,Completed,Anaya Desai
+ORD00720,2025-07-14,CUST0162,South,Dress,Clothing,5,22.85,114.25,Completed,Diya Patel
+ORD00721,2025-06-17,CUST0218,West,Bedside Table,Furniture,3,1407.45,4222.35,Returned,Isha Shah
+ORD00722,2025-04-19,CUST0034,West,Storage Box,Home & Kitchen,5,209.8,1049.0,Completed,Mira Trivedi
+ORD00723,2025-08-21,CUST0060,South,Makeup Set,Beauty,2,63.16,126.32,Completed,Vivaan Joshi
+ORD00724,2025-06-17,CUST0031,North,T-Shirt,Clothing,4,30.96,123.84,Completed,Anaya Desai
+ORD00725,2025-06-22,CUST0207,West,Makeup Set,Beauty,3,54.37,163.11,Completed,Anaya Desai
+ORD00726,2025-07-14,CUST0079,South,Laptop,Electronics,3,852.82,2558.46,Cancelled,Vivaan Joshi
+ORD00727,2025-05-23,CUST0086,East,Face Wash,Beauty,1,44.28,44.28,Completed,Isha Shah
+ORD00728,2025-08-04,CUST0050,South,Bedside Table,Furniture,1,962.39,962.39,Cancelled,Isha Shah
+ORD00729,2025-05-10,CUST0124,North,Blender,Home & Kitchen,1,322.33,322.33,Completed,Rohan Mehta
+ORD00730,2025-02-11,CUST0106,South,Bedside Table,Furniture,4,1354.3,5417.2,Completed,Aarav Shah
+ORD00731,2025-08-29,CUST0005,North,Hair Dryer,Beauty,3,71.27,213.81,Completed,Anaya Desai
+ORD00732,2025-01-10,CUST0039,East,Hair Dryer,Beauty,3,97.55,292.65,Cancelled,Vivaan Joshi
+ORD00733,2025-10-04,CUST0147,South,Headphones,Electronics,5,1181.65,5908.25,Completed,Kabir Patel
+ORD00734,2025-01-27,CUST0081,South,Dress,Clothing,3,30.77,92.31,Completed,Aarav Shah
+ORD00735,2025-06-29,CUST0213,West,Blender,Home & Kitchen,2,48.64,97.28,Completed,Vivaan Joshi
+ORD00736,2025-04-25,CUST0010,West,Dress,Clothing,1,55.81,55.81,Cancelled,Anaya Desai
+ORD00737,2025-11-29,CUST0040,South,Tablet,Electronics,4,646.71,2586.84,Completed,Anaya Desai
+ORD00738,2025-02-05,CUST0084,West,Blender,Home & Kitchen,5,261.71,1308.55,Cancelled,Rohan Mehta
+ORD00739,2025-11-30,CUST0010,East,Smartwatch,Electronics,2,837.92,1675.84,Completed,Mira Trivedi
+ORD00740,2025-01-21,CUST0176,South,Bedside Table,Furniture,3,262.17,786.51,Completed,Diya Patel
+ORD00741,2025-01-16,CUST0169,North,Blender,Home & Kitchen,1,313.43,313.43,Completed,Vivaan Joshi
+ORD00742,2025-05-07,CUST0050,West,Smartwatch,Electronics,2,929.51,1859.02,Completed,Vivaan Joshi
+ORD00743,2025-04-13,CUST0070,North,Storage Box,Home & Kitchen,4,125.32,501.28,Completed,Rohan Mehta
+ORD00744,2025-01-11,CUST0027,North,Jacket,Clothing,5,30.45,152.25,Completed,Anaya Desai
+ORD00745,2025-11-15,CUST0181,East,Hair Dryer,Beauty,3,69.53,208.59,Completed,Vivaan Joshi
+ORD00746,2025-03-20,CUST0087,North,Perfume,Beauty,3,27.18,81.54,Cancelled,Mira Trivedi
+ORD00747,2025-05-03,CUST0014,East,Laptop,Electronics,1,112.47,112.47,Completed,Diya Patel
+ORD00748,2025-03-06,CUST0162,South,Sofa,Furniture,5,350.58,1752.9,Completed,Mira Trivedi
+ORD00749,2025-08-31,CUST0172,South,Hair Dryer,Beauty,2,42.99,85.98,Cancelled,Diya Patel
+ORD00750,2025-12-09,CUST0080,East,Bedside Table,Furniture,4,284.51,1138.04,Completed,Mira Trivedi
+ORD00751,2025-02-28,CUST0158,South,Study Table,Furniture,2,1426.43,2852.86,Completed,Vivaan Joshi
+ORD00752,2025-10-16,CUST0226,South,Blender,Home & Kitchen,3,80.51,241.53,Returned,Isha Shah
+ORD00753,2025-04-22,CUST0123,East,Sofa,Furniture,4,142.37,569.48,Completed,Mira Trivedi
+ORD00754,2025-08-27,CUST0131,North,Jacket,Clothing,5,118.67,593.35,Completed,Diya Patel
+ORD00755,2025-12-25,CUST0137,South,Office Chair,Furniture,1,556.22,556.22,Completed,Mira Trivedi
+ORD00756,2025-05-12,CUST0041,West,Bedside Table,Furniture,5,678.82,3394.1,Cancelled,Mira Trivedi
+ORD00757,2025-07-08,CUST0112,West,Office Chair,Furniture,5,577.0,2885.0,Completed,Isha Shah
+ORD00758,2025-03-27,CUST0183,South,Perfume,Beauty,1,27.39,27.39,Completed,Mira Trivedi
+ORD00759,2025-11-07,CUST0211,North,Smartwatch,Electronics,3,747.6,2242.8,Cancelled,Mira Trivedi
+ORD00760,2025-11-07,CUST0176,North,Jacket,Clothing,1,144.04,144.04,Cancelled,Kabir Patel
+ORD00761,2025-02-28,CUST0210,East,Blender,Home & Kitchen,1,232.85,232.85,Completed,Rohan Mehta
+ORD00762,2025-03-25,CUST0075,West,Skincare Kit,Beauty,2,92.79,185.58,Completed,Kabir Patel
+ORD00763,2025-06-09,CUST0082,North,Face Wash,Beauty,2,58.08,116.16,Completed,Vivaan Joshi
+ORD00764,2025-02-25,CUST0235,South,Hair Dryer,Beauty,4,110.87,443.48,Completed,Isha Shah
+ORD00765,2025-10-24,CUST0033,West,Smartwatch,Electronics,5,89.09,445.45,Completed,Vivaan Joshi
+ORD00766,2025-01-14,CUST0144,East,Headphones,Electronics,1,1089.2,1089.2,Completed,Isha Shah
+ORD00767,2025-06-09,CUST0152,West,Headphones,Electronics,2,1049.56,2099.12,Completed,Kabir Patel
+ORD00768,2025-10-22,CUST0170,North,Blender,Home & Kitchen,4,153.99,615.96,Cancelled,Rohan Mehta
+ORD00769,2025-12-13,CUST0093,South,Study Table,Furniture,4,363.52,1454.08,Completed,Kabir Patel
+ORD00770,2025-07-12,CUST0019,East,Jacket,Clothing,2,149.66,299.32,Cancelled,Aarav Shah
+ORD00771,2025-07-23,CUST0165,East,Sneakers,Clothing,2,103.82,207.64,Completed,Kabir Patel
+ORD00772,2025-04-12,CUST0131,East,Bedside Table,Furniture,5,1402.44,7012.2,Cancelled,Kabir Patel
+ORD00773,2025-02-08,CUST0155,East,Makeup Set,Beauty,2,51.09,102.18,Completed,Aarav Shah
+ORD00774,2025-10-31,CUST0069,South,Makeup Set,Beauty,2,102.84,205.68,Completed,Kabir Patel
+ORD00775,2025-12-20,CUST0181,North,Face Wash,Beauty,1,49.1,49.1,Cancelled,Isha Shah
+ORD00776,2025-11-18,CUST0188,East,Smartwatch,Electronics,1,619.32,619.32,Completed,Vivaan Joshi
+ORD00777,2025-05-05,CUST0121,East,Bedside Table,Furniture,5,209.53,1047.65,Completed,Diya Patel
+ORD00778,2025-02-22,CUST0137,South,Face Wash,Beauty,1,43.0,43.0,Completed,Aarav Shah
+ORD00779,2025-12-23,CUST0085,North,Sofa,Furniture,4,817.73,3270.92,Completed,Kabir Patel
+ORD00780,2025-06-04,CUST0153,North,Vacuum Cleaner,Home & Kitchen,1,115.44,115.44,Completed,Vivaan Joshi
+ORD00781,2025-12-17,CUST0147,North,Hair Dryer,Beauty,4,14.88,59.52,Completed,Aarav Shah
+ORD00782,2025-11-04,CUST0130,East,Storage Box,Home & Kitchen,4,29.01,116.04,Completed,Diya Patel
+ORD00783,2025-03-03,CUST0066,West,Vacuum Cleaner,Home & Kitchen,3,63.74,191.22,Completed,Aarav Shah
+ORD00784,2025-10-17,CUST0169,South,Smartwatch,Electronics,5,275.57,1377.85,Completed,Mira Trivedi
+ORD00785,2025-01-22,CUST0205,West,Cookware Set,Home & Kitchen,2,106.21,212.42,Completed,Aarav Shah
+ORD00786,2025-06-27,CUST0040,South,Mixer,Home & Kitchen,5,339.22,1696.1,Cancelled,Mira Trivedi
+ORD00787,2025-09-30,CUST0043,South,Sofa,Furniture,4,433.13,1732.52,Completed,Anaya Desai
+ORD00788,2025-08-08,CUST0030,South,Hair Dryer,Beauty,3,14.08,42.24,Completed,Aarav Shah
+ORD00789,2025-12-05,CUST0243,West,Sneakers,Clothing,3,68.83,206.49,Completed,Anaya Desai
+ORD00790,2025-07-09,CUST0112,North,Sofa,Furniture,2,764.43,1528.86,Returned,Aarav Shah
+ORD00791,2025-02-05,CUST0175,South,Blender,Home & Kitchen,3,146.06,438.18,Completed,Aarav Shah
+ORD00792,2025-09-17,CUST0167,North,Smartwatch,Electronics,4,793.92,3175.68,Completed,Vivaan Joshi
+ORD00793,2025-11-28,CUST0150,West,Vacuum Cleaner,Home & Kitchen,1,108.14,108.14,Completed,Kabir Patel
+ORD00794,2025-06-24,CUST0134,South,Study Table,Furniture,5,1128.04,5640.2,Completed,Isha Shah
+ORD00795,2025-01-07,CUST0004,South,Jacket,Clothing,1,88.93,88.93,Completed,Kabir Patel
+ORD00796,2025-08-04,CUST0186,West,Smartwatch,Electronics,4,196.38,785.52,Cancelled,Vivaan Joshi
+ORD00797,2025-09-08,CUST0241,East,Cookware Set,Home & Kitchen,5,31.23,156.15,Returned,Anaya Desai
+ORD00798,2025-02-24,CUST0155,East,Skincare Kit,Beauty,1,87.3,87.3,Completed,Rohan Mehta
+ORD00799,2025-08-10,CUST0179,South,Bedside Table,Furniture,2,1224.48,2448.96,Completed,Rohan Mehta
+ORD00800,2025-07-05,CUST0237,North,Vacuum Cleaner,Home & Kitchen,1,174.1,174.1,Returned,Vivaan Joshi
+ORD00801,2025-11-22,CUST0016,West,Bookshelf,Furniture,1,460.27,460.27,Completed,Kabir Patel
+ORD00802,2025-08-24,CUST0068,South,Bookshelf,Furniture,3,1494.34,4483.02,Completed,Rohan Mehta
+ORD00803,2025-12-29,CUST0046,North,Office Chair,Furniture,2,788.41,1576.82,Completed,Mira Trivedi
+ORD00804,2025-03-20,CUST0165,East,Laptop,Electronics,4,685.51,2742.04,Completed,Diya Patel
+ORD00805,2025-08-11,CUST0187,East,Bookshelf,Furniture,1,244.6,244.6,Completed,Vivaan Joshi
+ORD00806,2025-04-01,CUST0001,North,Office Chair,Furniture,2,1355.12,2710.24,Completed,Aarav Shah
+ORD00807,2025-09-25,CUST0148,South,Bookshelf,Furniture,3,312.25,936.75,Returned,Aarav Shah
+ORD00808,2025-11-30,CUST0200,South,Makeup Set,Beauty,4,61.55,246.2,Returned,Diya Patel
+ORD00809,2025-05-19,CUST0138,East,Perfume,Beauty,4,8.37,33.48,Completed,Isha Shah
+ORD00810,2025-11-12,CUST0219,West,Vacuum Cleaner,Home & Kitchen,1,152.2,152.2,Completed,Isha Shah
+ORD00811,2025-10-03,CUST0046,North,Tablet,Electronics,3,931.71,2795.13,Returned,Aarav Shah
+ORD00812,2025-09-05,CUST0162,South,Study Table,Furniture,4,518.42,2073.68,Cancelled,Isha Shah
+ORD00813,2025-08-27,CUST0036,South,Office Chair,Furniture,4,1339.3,5357.2,Completed,Aarav Shah
+ORD00814,2025-08-12,CUST0100,West,T-Shirt,Clothing,5,112.16,560.8,Returned,Diya Patel
+ORD00815,2025-10-31,CUST0005,South,Hair Dryer,Beauty,4,63.96,255.84,Cancelled,Aarav Shah
+ORD00816,2025-05-18,CUST0055,West,Mixer,Home & Kitchen,1,131.45,131.45,Completed,Mira Trivedi
+ORD00817,2025-06-15,CUST0010,South,Perfume,Beauty,2,91.0,182.0,Completed,Rohan Mehta
+ORD00818,2025-05-06,CUST0180,East,Office Chair,Furniture,5,759.71,3798.55,Completed,Rohan Mehta
+ORD00819,2025-02-14,CUST0025,South,Laptop,Electronics,3,788.58,2365.74,Completed,Mira Trivedi
+ORD00820,2025-05-23,CUST0028,South,Perfume,Beauty,1,101.56,101.56,Completed,Diya Patel
+ORD00821,2025-08-19,CUST0052,East,Bedside Table,Furniture,2,1218.85,2437.7,Cancelled,Kabir Patel
+ORD00822,2025-05-05,CUST0083,North,Blender,Home & Kitchen,5,127.0,635.0,Completed,Anaya Desai
+ORD00823,2025-08-26,CUST0037,East,Smartwatch,Electronics,1,274.26,274.26,Completed,Kabir Patel
+ORD00824,2025-10-19,CUST0149,West,Jacket,Clothing,4,89.71,358.84,Completed,Aarav Shah
+ORD00825,2025-11-09,CUST0041,West,T-Shirt,Clothing,5,121.79,608.95,Completed,Aarav Shah
+ORD00826,2025-12-09,CUST0181,South,Office Chair,Furniture,2,108.89,217.78,Returned,Vivaan Joshi
+ORD00827,2025-07-14,CUST0070,East,Sofa,Furniture,2,1069.3,2138.6,Completed,Mira Trivedi
+ORD00828,2025-06-22,CUST0153,North,Study Table,Furniture,5,1413.33,7066.65,Completed,Rohan Mehta
+ORD00829,2025-01-15,CUST0002,West,Bedside Table,Furniture,3,1430.42,4291.26,Completed,Anaya Desai
+ORD00830,2025-09-11,CUST0221,North,T-Shirt,Clothing,1,148.19,148.19,Completed,Anaya Desai
+ORD00831,2025-06-16,CUST0039,East,Study Table,Furniture,2,487.0,974.0,Completed,Mira Trivedi
+ORD00832,2025-04-04,CUST0094,East,Study Table,Furniture,1,323.66,323.66,Completed,Vivaan Joshi
+ORD00833,2025-09-07,CUST0195,South,Sneakers,Clothing,5,48.94,244.7,Completed,Mira Trivedi
+ORD00834,2025-04-19,CUST0202,East,Smartphone,Electronics,5,909.27,4546.35,Completed,Aarav Shah
+ORD00835,2025-07-01,CUST0152,South,Bedside Table,Furniture,2,262.49,524.98,Completed,Isha Shah
+ORD00836,2025-05-13,CUST0029,West,Study Table,Furniture,3,1145.92,3437.76,Completed,Isha Shah
+ORD00837,2025-06-24,CUST0097,South,T-Shirt,Clothing,4,47.01,188.04,Returned,Anaya Desai
+ORD00838,2025-05-24,CUST0038,South,Tablet,Electronics,1,735.3,735.3,Completed,Anaya Desai
+ORD00839,2025-11-02,CUST0185,East,Makeup Set,Beauty,3,27.94,83.82,Completed,Anaya Desai
+ORD00840,2025-12-26,CUST0146,East,Vacuum Cleaner,Home & Kitchen,2,86.73,173.46,Completed,Aarav Shah
+ORD00841,2025-05-22,CUST0044,West,Cookware Set,Home & Kitchen,4,56.67,226.68,Completed,Isha Shah
+ORD00842,2025-10-12,CUST0148,South,Jacket,Clothing,5,96.49,482.45,Completed,Anaya Desai
+ORD00843,2025-01-06,CUST0056,South,Tablet,Electronics,4,1039.81,4159.24,Completed,Mira Trivedi
+ORD00844,2025-09-22,CUST0064,South,Bookshelf,Furniture,4,120.31,481.24,Returned,Anaya Desai
+ORD00845,2025-04-08,CUST0234,South,Blender,Home & Kitchen,5,211.22,1056.1,Completed,Aarav Shah
+ORD00846,2025-02-13,CUST0130,South,Office Chair,Furniture,4,156.08,624.32,Completed,Aarav Shah
+ORD00847,2025-05-04,CUST0062,West,Bedside Table,Furniture,1,652.05,652.05,Completed,Diya Patel
+ORD00848,2025-07-28,CUST0034,South,Skincare Kit,Beauty,4,85.63,342.52,Returned,Isha Shah
+ORD00849,2025-09-08,CUST0172,East,Cookware Set,Home & Kitchen,1,233.72,233.72,Completed,Vivaan Joshi
+ORD00850,2025-10-12,CUST0117,East,Sneakers,Clothing,5,130.82,654.1,Completed,Mira Trivedi
+ORD00851,2025-05-04,CUST0181,North,Sneakers,Clothing,3,39.97,119.91,Completed,Aarav Shah
+ORD00852,2025-12-20,CUST0076,North,Tablet,Electronics,3,1080.65,3241.95,Completed,Kabir Patel
+ORD00853,2025-09-01,CUST0021,South,Storage Box,Home & Kitchen,2,199.0,398.0,Completed,Isha Shah
+ORD00854,2025-11-27,CUST0029,South,Smartwatch,Electronics,3,1138.76,3416.28,Cancelled,Kabir Patel
+ORD00855,2025-12-31,CUST0166,West,Blender,Home & Kitchen,3,224.31,672.93,Completed,Diya Patel
+ORD00856,2025-09-09,CUST0030,West,Perfume,Beauty,3,23.5,70.5,Completed,Mira Trivedi
+ORD00857,2025-08-18,CUST0230,West,Perfume,Beauty,2,92.36,184.72,Completed,Vivaan Joshi
+ORD00858,2025-01-09,CUST0116,West,Makeup Set,Beauty,1,39.04,39.04,Completed,Mira Trivedi
+ORD00859,2025-02-17,CUST0174,South,Face Wash,Beauty,4,100.91,403.64,Completed,Vivaan Joshi
+ORD00860,2025-05-31,CUST0227,East,Bedside Table,Furniture,1,615.4,615.4,Completed,Mira Trivedi
+ORD00861,2025-04-24,CUST0245,West,Smartphone,Electronics,2,517.56,1035.12,Completed,Diya Patel
+ORD00862,2025-07-27,CUST0224,West,Laptop,Electronics,2,389.06,778.12,Completed,Anaya Desai
+ORD00863,2025-12-21,CUST0122,South,Skincare Kit,Beauty,5,40.83,204.15,Completed,Isha Shah
+ORD00864,2025-05-05,CUST0017,West,Sofa,Furniture,1,1132.79,1132.79,Completed,Aarav Shah
+ORD00865,2025-06-06,CUST0168,North,Dress,Clothing,4,102.03,408.12,Completed,Isha Shah
+ORD00866,2025-12-06,CUST0114,South,Bedside Table,Furniture,5,1032.2,5161.0,Completed,Mira Trivedi
+ORD00867,2025-10-25,CUST0067,East,Storage Box,Home & Kitchen,3,63.54,190.62,Completed,Anaya Desai
+ORD00868,2025-07-08,CUST0073,East,Bookshelf,Furniture,1,1459.01,1459.01,Completed,Mira Trivedi
+ORD00869,2025-08-31,CUST0250,West,Dress,Clothing,5,139.76,698.8,Cancelled,Rohan Mehta
+ORD00870,2025-10-11,CUST0148,South,Jeans,Clothing,1,47.12,47.12,Returned,Rohan Mehta
+ORD00871,2025-09-29,CUST0009,North,Bookshelf,Furniture,2,617.54,1235.08,Completed,Isha Shah
+ORD00872,2025-06-26,CUST0137,South,Cookware Set,Home & Kitchen,5,143.06,715.3,Completed,Vivaan Joshi
+ORD00873,2025-08-06,CUST0243,South,Smartphone,Electronics,4,533.11,2132.44,Completed,Mira Trivedi
+ORD00874,2025-10-09,CUST0085,South,Cookware Set,Home & Kitchen,5,21.42,107.1,Completed,Vivaan Joshi
+ORD00875,2025-06-19,CUST0205,North,Bookshelf,Furniture,5,1457.45,7287.25,Completed,Mira Trivedi
+ORD00876,2025-06-30,CUST0142,East,Mixer,Home & Kitchen,1,261.44,261.44,Completed,Diya Patel
+ORD00877,2025-12-26,CUST0024,West,Mixer,Home & Kitchen,2,152.54,305.08,Completed,Isha Shah
+ORD00878,2025-08-21,CUST0201,North,Smartwatch,Electronics,5,798.27,3991.35,Completed,Vivaan Joshi
+ORD00879,2025-05-19,CUST0246,North,T-Shirt,Clothing,4,26.28,105.12,Completed,Diya Patel
+ORD00880,2025-06-06,CUST0131,North,Makeup Set,Beauty,3,29.78,89.34,Completed,Aarav Shah
+ORD00881,2025-05-09,CUST0096,West,Blender,Home & Kitchen,4,68.82,275.28,Completed,Aarav Shah
+ORD00882,2025-04-29,CUST0023,South,Vacuum Cleaner,Home & Kitchen,4,135.95,543.8,Completed,Anaya Desai
+ORD00883,2025-03-03,CUST0187,East,Sofa,Furniture,3,1225.16,3675.48,Completed,Kabir Patel
+ORD00884,2025-04-09,CUST0054,East,Study Table,Furniture,5,1269.72,6348.6,Completed,Vivaan Joshi
+ORD00885,2025-06-11,CUST0152,South,Bedside Table,Furniture,1,1481.29,1481.29,Cancelled,Kabir Patel
+ORD00886,2025-03-03,CUST0143,West,Smartphone,Electronics,3,538.6,1615.8,Completed,Mira Trivedi
+ORD00887,2025-10-02,CUST0126,West,Perfume,Beauty,4,30.32,121.28,Completed,Aarav Shah
+ORD00888,2025-12-20,CUST0058,South,Storage Box,Home & Kitchen,5,120.29,601.45,Completed,Aarav Shah
+ORD00889,2025-04-05,CUST0171,East,Laptop,Electronics,4,374.2,1496.8,Completed,Vivaan Joshi
+ORD00890,2025-04-09,CUST0196,East,Study Table,Furniture,2,788.64,1577.28,Completed,Vivaan Joshi
+ORD00891,2025-04-21,CUST0145,North,Office Chair,Furniture,3,938.45,2815.35,Completed,Kabir Patel
+ORD00892,2025-09-05,CUST0188,West,Blender,Home & Kitchen,1,341.51,341.51,Cancelled,Aarav Shah
+ORD00893,2025-05-22,CUST0225,West,Cookware Set,Home & Kitchen,2,211.95,423.9,Cancelled,Rohan Mehta
+ORD00894,2025-10-29,CUST0234,West,Cookware Set,Home & Kitchen,3,37.45,112.35,Completed,Isha Shah
+ORD00895,2025-09-26,CUST0197,North,Headphones,Electronics,1,406.66,406.66,Completed,Rohan Mehta
+ORD00896,2025-11-02,CUST0081,West,Smartwatch,Electronics,5,922.94,4614.7,Completed,Vivaan Joshi
+ORD00897,2025-05-25,CUST0037,West,Vacuum Cleaner,Home & Kitchen,5,51.63,258.15,Completed,Aarav Shah
+ORD00898,2025-02-21,CUST0236,West,Dress,Clothing,4,52.99,211.96,Cancelled,Rohan Mehta
+ORD00899,2025-04-10,CUST0204,South,Laptop,Electronics,2,253.1,506.2,Completed,Diya Patel
+ORD00900,2025-06-01,CUST0237,South,Sofa,Furniture,1,1382.44,1382.44,Completed,Aarav Shah
+ORD00901,2025-04-27,CUST0114,East,Bookshelf,Furniture,3,536.2,1608.6,Completed,Isha Shah
+ORD00902,2025-07-04,CUST0220,West,Jacket,Clothing,1,18.88,18.88,Completed,Rohan Mehta
+ORD00903,2025-04-02,CUST0109,South,Jacket,Clothing,2,31.92,63.84,Completed,Diya Patel
+ORD00904,2025-06-04,CUST0028,East,Smartphone,Electronics,4,947.66,3790.64,Completed,Aarav Shah
+ORD00905,2025-01-08,CUST0012,South,Face Wash,Beauty,1,14.64,14.64,Completed,Diya Patel
+ORD00906,2025-12-29,CUST0053,South,Mixer,Home & Kitchen,1,269.0,269.0,Cancelled,Anaya Desai
+ORD00907,2025-10-01,CUST0242,South,Jacket,Clothing,2,18.95,37.9,Cancelled,Vivaan Joshi
+ORD00908,2025-03-06,CUST0157,South,Hair Dryer,Beauty,5,47.45,237.25,Completed,Anaya Desai
+ORD00909,2025-05-21,CUST0136,South,Face Wash,Beauty,5,15.65,78.25,Completed,Anaya Desai
+ORD00910,2025-01-24,CUST0186,East,Jacket,Clothing,5,38.19,190.95,Completed,Diya Patel
+ORD00911,2025-01-28,CUST0151,West,Dress,Clothing,4,129.93,519.72,Completed,Rohan Mehta
+ORD00912,2025-10-11,CUST0109,South,Office Chair,Furniture,3,353.19,1059.57,Completed,Anaya Desai
+ORD00913,2025-05-30,CUST0029,East,Perfume,Beauty,3,53.65,160.95,Completed,Rohan Mehta
+ORD00914,2025-12-24,CUST0022,South,Bookshelf,Furniture,5,1086.62,5433.1,Completed,Isha Shah
+ORD00915,2025-03-06,CUST0080,North,Office Chair,Furniture,4,638.69,2554.76,Completed,Mira Trivedi
+ORD00916,2025-11-23,CUST0018,East,Dress,Clothing,4,69.98,279.92,Completed,Mira Trivedi
+ORD00917,2025-09-09,CUST0102,North,Cookware Set,Home & Kitchen,4,24.22,96.88,Completed,Mira Trivedi
+ORD00918,2025-02-22,CUST0152,West,Skincare Kit,Beauty,4,21.35,85.4,Returned,Diya Patel
+ORD00919,2025-01-07,CUST0153,West,T-Shirt,Clothing,2,64.1,128.2,Completed,Kabir Patel
+ORD00920,2025-10-21,CUST0183,West,Laptop,Electronics,4,1018.68,4074.72,Completed,Vivaan Joshi
+ORD00921,2025-05-26,CUST0125,South,Bookshelf,Furniture,5,766.16,3830.8,Cancelled,Vivaan Joshi
+ORD00922,2025-08-29,CUST0060,West,Sneakers,Clothing,3,29.58,88.74,Completed,Rohan Mehta
+ORD00923,2025-09-03,CUST0007,West,Smartphone,Electronics,1,906.33,906.33,Cancelled,Rohan Mehta
+ORD00924,2025-08-14,CUST0160,West,Bedside Table,Furniture,2,1050.89,2101.78,Cancelled,Diya Patel
+ORD00925,2025-06-24,CUST0170,East,Smartwatch,Electronics,4,939.68,3758.72,Completed,Mira Trivedi
+ORD00926,2025-04-05,CUST0139,South,Bedside Table,Furniture,3,466.33,1398.99,Completed,Aarav Shah
+ORD00927,2025-01-27,CUST0081,West,Tablet,Electronics,1,1065.74,1065.74,Completed,Kabir Patel
+ORD00928,2025-05-10,CUST0221,North,Sofa,Furniture,2,150.37,300.74,Completed,Vivaan Joshi
+ORD00929,2025-09-02,CUST0125,South,Sneakers,Clothing,3,73.14,219.42,Completed,Diya Patel
+ORD00930,2025-02-28,CUST0122,North,Makeup Set,Beauty,5,81.93,409.65,Completed,Rohan Mehta
+ORD00931,2025-02-03,CUST0097,North,Skincare Kit,Beauty,4,51.84,207.36,Completed,Isha Shah
+ORD00932,2025-07-25,CUST0215,East,Vacuum Cleaner,Home & Kitchen,5,40.27,201.35,Cancelled,Isha Shah
+ORD00933,2025-09-09,CUST0110,West,Storage Box,Home & Kitchen,3,28.88,86.64,Returned,Isha Shah
+ORD00934,2025-02-07,CUST0166,West,Blender,Home & Kitchen,2,135.92,271.84,Completed,Vivaan Joshi
+ORD00935,2025-10-23,CUST0030,South,Skincare Kit,Beauty,1,109.96,109.96,Completed,Isha Shah
+ORD00936,2025-11-19,CUST0222,West,T-Shirt,Clothing,1,87.69,87.69,Completed,Kabir Patel
+ORD00937,2025-12-18,CUST0121,East,Face Wash,Beauty,3,108.96,326.88,Completed,Aarav Shah
+ORD00938,2025-01-28,CUST0207,North,Blender,Home & Kitchen,3,208.22,624.66,Returned,Mira Trivedi
+ORD00939,2025-03-19,CUST0171,South,Laptop,Electronics,5,456.28,2281.4,Completed,Isha Shah
+ORD00940,2025-03-18,CUST0163,East,Dress,Clothing,4,55.44,221.76,Completed,Diya Patel
+ORD00941,2025-10-16,CUST0147,West,Perfume,Beauty,1,40.18,40.18,Completed,Kabir Patel
+ORD00942,2025-06-05,CUST0149,South,Dress,Clothing,1,115.29,115.29,Completed,Diya Patel
+ORD00943,2025-02-13,CUST0122,South,Hair Dryer,Beauty,5,38.62,193.1,Completed,Kabir Patel
+ORD00944,2025-05-08,CUST0077,North,Jacket,Clothing,3,122.41,367.23,Cancelled,Kabir Patel
+ORD00945,2025-03-02,CUST0132,West,Hair Dryer,Beauty,4,30.41,121.64,Completed,Mira Trivedi
+ORD00946,2025-10-13,CUST0148,South,Perfume,Beauty,5,106.66,533.3,Completed,Mira Trivedi
+ORD00947,2025-08-02,CUST0219,South,Sneakers,Clothing,5,51.17,255.85,Completed,Kabir Patel
+ORD00948,2025-11-07,CUST0062,West,Skincare Kit,Beauty,3,66.49,199.47,Cancelled,Rohan Mehta
+ORD00949,2025-11-02,CUST0217,North,Blender,Home & Kitchen,1,155.39,155.39,Cancelled,Kabir Patel
+ORD00950,2025-11-13,CUST0061,North,Vacuum Cleaner,Home & Kitchen,3,233.19,699.57,Completed,Kabir Patel
+ORD00951,2025-04-26,CUST0212,West,T-Shirt,Clothing,1,35.24,35.24,Completed,Vivaan Joshi
+ORD00952,2025-09-25,CUST0232,West,Sofa,Furniture,4,883.76,3535.04,Completed,Aarav Shah
+ORD00953,2025-07-14,CUST0206,West,Jeans,Clothing,1,51.82,51.82,Completed,Vivaan Joshi
+ORD00954,2025-08-19,CUST0125,South,Perfume,Beauty,1,80.16,80.16,Returned,Aarav Shah
+ORD00955,2025-08-15,CUST0231,South,Smartphone,Electronics,3,431.57,1294.71,Completed,Kabir Patel
+ORD00956,2025-06-02,CUST0147,West,Mixer,Home & Kitchen,2,150.98,301.96,Completed,Diya Patel
+ORD00957,2025-10-29,CUST0227,West,Face Wash,Beauty,5,114.36,571.8,Completed,Diya Patel
+ORD00958,2025-08-08,CUST0150,West,Dress,Clothing,3,31.51,94.53,Completed,Kabir Patel
+ORD00959,2025-06-06,CUST0249,East,Sneakers,Clothing,1,44.43,44.43,Completed,Vivaan Joshi
+ORD00960,2025-10-19,CUST0137,East,Sofa,Furniture,5,456.03,2280.15,Completed,Isha Shah
+ORD00961,2025-11-14,CUST0247,North,Headphones,Electronics,4,691.23,2764.92,Completed,Vivaan Joshi
+ORD00962,2025-01-31,CUST0006,South,Jacket,Clothing,3,79.15,237.45,Completed,Aarav Shah
+ORD00963,2025-11-09,CUST0246,West,Laptop,Electronics,4,363.34,1453.36,Completed,Isha Shah
+ORD00964,2025-02-20,CUST0233,West,Smartwatch,Electronics,4,1050.99,4203.96,Completed,Kabir Patel
+ORD00965,2025-04-17,CUST0221,West,Vacuum Cleaner,Home & Kitchen,2,49.78,99.56,Completed,Rohan Mehta
+ORD00966,2025-11-17,CUST0071,South,Bookshelf,Furniture,4,1331.25,5325.0,Completed,Diya Patel
+ORD00967,2025-04-19,CUST0225,South,Sofa,Furniture,3,1131.72,3395.16,Completed,Diya Patel
+ORD00968,2025-05-16,CUST0187,West,Jacket,Clothing,3,83.36,250.08,Completed,Isha Shah
+ORD00969,2025-12-05,CUST0203,North,Office Chair,Furniture,2,1166.77,2333.54,Completed,Rohan Mehta
+ORD00970,2025-02-11,CUST0022,West,Tablet,Electronics,3,304.08,912.24,Completed,Diya Patel
+ORD00971,2025-03-22,CUST0176,South,Jeans,Clothing,2,84.71,169.42,Completed,Kabir Patel
+ORD00972,2025-05-03,CUST0176,West,Blender,Home & Kitchen,2,177.86,355.72,Returned,Isha Shah
+ORD00973,2025-03-30,CUST0225,East,Cookware Set,Home & Kitchen,3,47.85,143.55,Completed,Kabir Patel
+ORD00974,2025-10-10,CUST0166,South,Perfume,Beauty,1,10.32,10.32,Completed,Anaya Desai
+ORD00975,2025-02-08,CUST0159,East,Tablet,Electronics,2,302.06,604.12,Completed,Kabir Patel
+ORD00976,2025-03-22,CUST0146,East,Hair Dryer,Beauty,3,24.72,74.16,Completed,Diya Patel
+ORD00977,2025-01-02,CUST0127,South,Smartwatch,Electronics,4,567.38,2269.52,Completed,Diya Patel
+ORD00978,2025-07-29,CUST0127,West,Jeans,Clothing,3,40.72,122.16,Completed,Kabir Patel
+ORD00979,2025-08-19,CUST0211,East,Sneakers,Clothing,5,130.61,653.05,Completed,Vivaan Joshi
+ORD00980,2025-12-19,CUST0250,East,Sneakers,Clothing,2,39.35,78.7,Completed,Vivaan Joshi
+ORD00981,2025-11-01,CUST0176,West,Dress,Clothing,2,75.88,151.76,Completed,Mira Trivedi
+ORD00982,2025-08-29,CUST0102,South,Smartphone,Electronics,3,605.15,1815.45,Completed,Anaya Desai
+ORD00983,2025-05-30,CUST0143,East,Sofa,Furniture,3,1130.55,3391.65,Completed,Aarav Shah
+ORD00984,2025-01-17,CUST0156,South,Headphones,Electronics,4,1122.79,4491.16,Completed,Aarav Shah
+ORD00985,2025-04-29,CUST0102,West,Headphones,Electronics,4,645.09,2580.36,Completed,Isha Shah
+ORD00986,2025-05-28,CUST0129,West,Dress,Clothing,2,20.55,41.1,Completed,Mira Trivedi
+ORD00987,2025-12-28,CUST0111,South,Blender,Home & Kitchen,3,63.53,190.59,Completed,Rohan Mehta
+ORD00988,2025-05-25,CUST0250,West,Mixer,Home & Kitchen,2,123.38,246.76,Completed,Vivaan Joshi
+ORD00989,2025-12-26,CUST0195,North,Blender,Home & Kitchen,3,113.37,340.11,Completed,Vivaan Joshi
+ORD00990,2025-08-21,CUST0126,West,Hair Dryer,Beauty,2,56.81,113.62,Cancelled,Rohan Mehta
+ORD00991,2025-02-06,CUST0047,East,Makeup Set,Beauty,2,13.96,27.92,Cancelled,Aarav Shah
+ORD00992,2025-12-18,CUST0230,West,Bookshelf,Furniture,4,328.98,1315.92,Completed,Mira Trivedi
+ORD00993,2025-04-30,CUST0127,West,Tablet,Electronics,5,479.3,2396.5,Completed,Diya Patel
+ORD00994,2025-05-16,CUST0047,South,T-Shirt,Clothing,2,62.2,124.4,Completed,Rohan Mehta
+ORD00995,2025-11-17,CUST0249,East,Hair Dryer,Beauty,5,71.08,355.4,Completed,Aarav Shah
+ORD00996,2025-10-29,CUST0128,West,Face Wash,Beauty,1,28.22,28.22,Completed,Diya Patel
+ORD00997,2025-12-05,CUST0152,West,Mixer,Home & Kitchen,1,113.81,113.81,Returned,Diya Patel
+ORD00998,2025-04-12,CUST0169,South,Cookware Set,Home & Kitchen,4,29.53,118.12,Completed,Mira Trivedi
+ORD00999,2025-08-06,CUST0012,West,Bookshelf,Furniture,1,931.89,931.89,Returned,Mira Trivedi
+ORD01000,2025-02-28,CUST0073,South,Storage Box,Home & Kitchen,1,62.68,62.68,Completed,Isha Shah
